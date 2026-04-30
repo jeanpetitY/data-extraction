@@ -1,0 +1,14 @@
+[
+  {
+    "prop_id": "P001",
+    "prop_name": "food_name"
+  },
+  {
+    "prop_id": "P002",
+    "prop_name": "geographical_area"
+  },
+  {
+    "prop_id": "P003",
+    "prop_name": "ingredients"
+  }
+]

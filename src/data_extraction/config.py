@@ -8,4 +8,5 @@ DEFAULT_GEOGRAPHICAL_AREA = "West Africa"
 
 
 def load_env(path: str = ".env") -> None:
+    """Load environment variables from a dotenv file without overriding existing values."""
     load_dotenv(dotenv_path=path, override=False)

@@ -5,12 +5,14 @@ import re
 
 
 def save_json(data: list[dict[str, Any]], output_path: str) -> None:
+    """Write a list of dictionaries as pretty UTF-8 JSON."""
     out = Path(output_path)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def slugify_filename(text: str) -> str:
+    """Convert arbitrary text into a stable filesystem-friendly filename stem."""
     normalized = text.strip().lower()
     normalized = normalized.replace("/", " - ")
     normalized = re.sub(r"\s+", "_", normalized)
@@ -24,6 +26,7 @@ def save_json_by_food_group(
     output_path: str,
     grouped_dir: str | None = None,
 ) -> tuple[str, int]:
+    """Save one JSON file per food_group and return the output directory and count."""
     out = Path(output_path)
     base_dir = Path(grouped_dir) if grouped_dir else out.parent / f"{out.stem}_by_group"
     base_dir.mkdir(parents=True, exist_ok=True)
@@ -40,4 +43,3 @@ def save_json_by_food_group(
         )
 
     return str(base_dir), len(grouped)
-

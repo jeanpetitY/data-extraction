@@ -44,6 +44,7 @@ def extract_food_group_mapping(csv_path: str) -> dict[str, str | None]:
 def read_food_rows_with_pandas(
     csv_path: str, max_rows: int | None = None
 ) -> list[dict[str, Any]]:
+    """Read WAFCT food rows and convert nutrient columns into components."""
     df = pd.read_csv(csv_path, dtype=str, keep_default_na=False)
     code_to_group = extract_food_group_mapping(csv_path)
 

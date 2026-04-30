@@ -42,6 +42,41 @@ uv run python scripts/02_extract_structured_food_data.py --enrichment openai
 The heuristic mode should be used for reproducibility checks that must not
 depend on private credentials or external API availability.
 
+## Generic Template-Based Extraction
+
+The pipeline can also run with a user-provided template. The template can be a
+CSV or JSON file and must define `prop_name` values. For CSV templates, the
+required columns are:
+
+```csv
+prop_id,prop_name
+P001,food_name
+P002,geographical_area
+```
+
+`prop_id` is kept for user flexibility, but the extraction pipeline uses
+`prop_name`.
+
+Run generic extraction without an LLM:
+
+```bash
+uv run data-extraction \
+  --csv data.csv \
+  --template templates/example_template.csv \
+  --output output.json \
+  --generic-enrichment none
+```
+
+Run generic extraction with dynamic OpenAI enrichment for missing properties:
+
+```bash
+uv run data-extraction \
+  --csv data.csv \
+  --template templates/example_template.csv \
+  --output output.json \
+  --generic-enrichment openai
+```
+
 ## Repository Structure
 
 ```text
@@ -56,7 +91,9 @@ depend on private credentials or external API availability.
 │   ├── resources/         # Static resources
 │   ├── cli.py             # Command-line interface
 │   ├── config.py          # Defaults and environment loading
+│   ├── generic_pipeline.py # Template-based generic extraction
 │   └── pipeline.py        # End-to-end extraction orchestration
+├── templates/             # Example user templates
 ├── extract.py             # Backward-compatible CLI wrapper
 ├── main.py                # Excel-to-CSV wrapper
 ├── Makefile

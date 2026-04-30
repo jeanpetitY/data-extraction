@@ -11,6 +11,7 @@ from data_extraction.enrichment.heuristics import enrich_with_heuristics
 def enrich_with_openai(
     rows: list[dict[str, Any]], model: str = DEFAULT_MODEL, batch_size: int = 50
 ) -> dict[str, dict[str, Any]]:
+    """Use OpenAI to enrich WAFCT rows with ingredients and geographical areas."""
     load_env()
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:

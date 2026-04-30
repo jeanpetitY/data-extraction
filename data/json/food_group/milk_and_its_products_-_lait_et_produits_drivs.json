@@ -1,0 +1,212 @@
+[
+  {
+    "portion": "100g",
+    "code": "10_019",
+    "food_name_english": "Breastmilk, colostrum",
+    "food_name_french": "Lait maternel, colostrum",
+    "scientific_name": "",
+    "food_group": "Milk and its products/Lait et produits dérivés",
+    "geographical_area": "West Africa",
+    "components": [
+      {
+        "name": "Energy",
+        "value": "249",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "59",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "88.2",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "1.9",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "2.6",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "7.1",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "0.2",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "28",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "0.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "3",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "14",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "70",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "47",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "0.60",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0.05",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "178",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "166",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "155",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "135",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "tr",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E (expressed in alpha-tocopherol equivalents) or [alpha-tocopherol]",
+        "value": "1.30",
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "tr",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.03",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "0.8",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "0.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Tryptophan",
+        "value": "42",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "tr",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "2",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "2",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "0.10",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "7",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "31",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "1.08",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "1.08",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "0.30",
+        "unit": "g"
+      },
+      {
+        "name": "Linoleic acid",
+        "value": "0.22",
+        "unit": "g"
+      },
+      {
+        "name": "Alpha-linolenic acid",
+        "value": "0.02",
+        "unit": "g"
+      },
+      {
+        "name": "Phytate, total or [phytate, determined by direct precipitation] or [phytate, determined by indirect precipitation]",
+        "value": "0",
+        "unit": "mg"
+      }
+    ],
+    "ingredients": [
+      "Breastmilk",
+      "colostrum"
+    ]
+  }
+]

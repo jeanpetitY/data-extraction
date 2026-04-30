@@ -18,3 +18,21 @@ OpenAI enrichment remains available for experiments that explicitly need it:
 uv run python scripts/02_extract_structured_food_data.py --enrichment openai
 ```
 
+## Generic Template Mode
+
+For non-WAFCT datasets, provide a CSV data file and a template file:
+
+```bash
+uv run data-extraction \
+  --csv path/to/data.csv \
+  --template templates/example_template.csv \
+  --output path/to/output.json \
+  --generic-enrichment none
+```
+
+The template may be CSV or JSON. The only field required by the generic
+pipeline is `prop_name`; `prop_id` can be chosen freely by the user.
+
+If `--generic-enrichment openai` is used, the prompt and JSON schema are built
+dynamically from the template `prop_name` values. Existing CSV column values are
+kept, and missing values are inferred by the model when possible.

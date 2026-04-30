@@ -12,6 +12,7 @@ EnrichmentMode = Literal["openai", "heuristic"]
 def resolve_geographical_area(
     enriched_by_code: dict[str, dict[str, Any]], code: str
 ) -> str:
+    """Return an enriched geographical area or the dataset default area."""
     return (
         enriched_by_code.get(code, {}).get("geographical_area")
         or DEFAULT_GEOGRAPHICAL_AREA
@@ -25,6 +26,7 @@ def build_final_list(
     max_rows: int | None = None,
     enrichment: EnrichmentMode = "openai",
 ) -> list[dict[str, Any]]:
+    """Build the WAFCT-specific structured JSON records from a source CSV."""
     rows = read_food_rows_with_pandas(csv_path, max_rows=max_rows)
 
     if enrichment == "heuristic":

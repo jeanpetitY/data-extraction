@@ -8,6 +8,7 @@ from data_extraction.io.excel import export_excel_sheets_to_csv
 
 
 def main():
+    """Export the default WAFCT workbook to CSV files."""
     export_excel_sheets_to_csv("data/xlsx/WAFCT_2019.xlsx", "data/csv")
 
 

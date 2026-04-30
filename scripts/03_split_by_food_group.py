@@ -11,6 +11,7 @@ from data_extraction.io.json_writer import save_json_by_food_group
 
 
 def main() -> None:
+    """Split a structured JSON file into one JSON file per food group."""
     parser = argparse.ArgumentParser(description="Split structured JSON by food group.")
     parser.add_argument("--input", default=DEFAULT_OUTPUT_PATH)
     parser.add_argument("--output-dir", default="data/json/food_group")
@@ -26,4 +27,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

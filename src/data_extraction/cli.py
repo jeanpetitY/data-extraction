@@ -1,11 +1,13 @@
 import argparse
 
 from data_extraction.config import DEFAULT_CSV_PATH, DEFAULT_MODEL, DEFAULT_OUTPUT_PATH
+from data_extraction.generic_pipeline import build_generic_list
 from data_extraction.io.json_writer import save_json, save_json_by_food_group
 from data_extraction.pipeline import build_final_list
 
 
 def main() -> None:
+    """Run the command-line interface for WAFCT or generic extraction."""
     parser = argparse.ArgumentParser(
         description=(
             "CSV -> list[dict] with keys: portion, code, food_name_english, "
@@ -15,6 +17,14 @@ def main() -> None:
     )
     parser.add_argument("--csv", default=DEFAULT_CSV_PATH)
     parser.add_argument("--output", default=DEFAULT_OUTPUT_PATH)
+    parser.add_argument(
+        "--template",
+        default=None,
+        help=(
+            "Optional CSV or JSON template containing prop_id and prop_name. "
+            "When provided, the generic template-based pipeline is used."
+        ),
+    )
     parser.add_argument("--model", default=DEFAULT_MODEL)
     parser.add_argument("--batch-size", type=int, default=50)
     parser.add_argument("--max-rows", type=int, default=None)
@@ -23,6 +33,12 @@ def main() -> None:
         choices=["openai", "heuristic"],
         default="openai",
         help="Use 'heuristic' to run without external API access.",
+    )
+    parser.add_argument(
+        "--generic-enrichment",
+        choices=["none", "openai"],
+        default="none",
+        help="Enrichment mode used only with --template.",
     )
     parser.add_argument(
         "--split-by-food-group",
@@ -39,13 +55,23 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    final_data = build_final_list(
-        csv_path=args.csv,
-        model=args.model,
-        batch_size=args.batch_size,
-        max_rows=args.max_rows,
-        enrichment=args.enrichment,
-    )
+    if args.template:
+        final_data = build_generic_list(
+            csv_path=args.csv,
+            template_path=args.template,
+            model=args.model,
+            batch_size=args.batch_size,
+            max_rows=args.max_rows,
+            enrichment=args.generic_enrichment,
+        )
+    else:
+        final_data = build_final_list(
+            csv_path=args.csv,
+            model=args.model,
+            batch_size=args.batch_size,
+            max_rows=args.max_rows,
+            enrichment=args.enrichment,
+        )
     save_json(final_data, args.output)
     print(f"Saved {len(final_data)} items to {args.output}")
 
@@ -54,4 +80,3 @@ def main() -> None:
             final_data, output_path=args.output, grouped_dir=args.group_output_dir
         )
         print(f"Saved {group_count} food-group files in {group_dir}")
-

@@ -1,0 +1,187 @@
+[
+  {
+    "portion": "100g",
+    "code": "13_016",
+    "food_name_english": "Allspice, ground",
+    "food_name_french": "Piment de la Jamaïque, moulu",
+    "scientific_name": "Pimenta dioica",
+    "food_group": "Miscellaneous/Divers",
+    "geographical_area": "West Africa",
+    "components": [
+      {
+        "name": "Energy",
+        "value": "1460",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "348",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "8.5",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "6.1",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "8.7",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "50.5",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "21.6",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "4.7",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "661",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "7.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "135",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "113",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "1040",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "77",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "1.01",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0.55",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "54",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "27",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "324",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.10",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.06",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "[2.9]",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "2.9",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "0.21",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "36",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "36",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "39",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "2.55",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "0.66",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "2.36",
+        "unit": "g"
+      }
+    ],
+    "ingredients": [
+      "Allspice",
+      "ground"
+    ]
+  }
+]
