@@ -1,0 +1,845 @@
+[
+  {
+    "portion": "100g",
+    "code": "02_093",
+    "food_name_english": "Banakou né barâand kanss saagbo (Burkina Faso)*: foutou of cassava and unripe plantain",
+    "food_name_french": "Banakou né barâand kanss saagbo (Burkina Faso)*: foutou de manioc et banane plantain verte",
+    "scientific_name": "",
+    "food_group": "Starchy roots, tubers and their products/Racines amylacées, tubercules et produits dérivés",
+    "geographical_area": "Burkina Faso",
+    "components": [
+      {
+        "name": "Energy",
+        "value": "492",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "116",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "68.6",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "1.2",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "[0.5]",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "25",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "3.7",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "1",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "21",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "0.9",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "18",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "32",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "286",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "13",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "1.15",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0.08",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "2",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "1",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "13",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E (expressed in alpha-tocopherol equivalents) or [alpha-tocopherol]",
+        "value": "0.12",
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.04",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.03",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "0.6",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "0.4",
+        "unit": "mg"
+      },
+      {
+        "name": "Tryptophan",
+        "value": "10",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "0.08",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "13",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "13",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "18",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "0.13",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "0.03",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "0.22",
+        "unit": "g"
+      },
+      {
+        "name": "Linoleic acid",
+        "value": "0.16",
+        "unit": "g"
+      },
+      {
+        "name": "Alpha-linolenic acid",
+        "value": "0.06",
+        "unit": "g"
+      },
+      {
+        "name": "Phytate, total or [phytate, determined by direct precipitation] or [phytate, determined by indirect precipitation]",
+        "value": "41",
+        "unit": "mg"
+      }
+    ],
+    "ingredients": [
+      "foutou of cassava",
+      "unripe plantain"
+    ]
+  },
+  {
+    "portion": "100g",
+    "code": "02_091",
+    "food_name_english": "Banakou né barâand moomd saagbo (Burkina Faso)*: foutou of cassava and ripe plantain",
+    "food_name_french": "Banakou né barâand moomd saagbo (Burkina Faso)*: foutou de manioc et banane plantain mûre",
+    "scientific_name": "",
+    "food_group": "Starchy roots, tubers and their products/Racines amylacées, tubercules et produits dérivés",
+    "geographical_area": "Burkina Faso",
+    "components": [
+      {
+        "name": "Energy",
+        "value": "489",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "115",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "69.2",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "1.1",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "[0.2]",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "25.9",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "2.8",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "0.8",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "26",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "1.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "15",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "37",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "186",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "4",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "1.37",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0.05",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "22",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "11",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "130",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E (expressed in alpha-tocopherol equivalents) or [alpha-tocopherol]",
+        "value": "0.15",
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.04",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.03",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "0.6",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "0.5",
+        "unit": "mg"
+      },
+      {
+        "name": "Tryptophan",
+        "value": "10",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "0.09",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "14",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "14",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "19",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "0.07",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "0.01",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "0.09",
+        "unit": "g"
+      },
+      {
+        "name": "Linoleic acid",
+        "value": "0.08",
+        "unit": "g"
+      },
+      {
+        "name": "Alpha-linolenic acid",
+        "value": "0.01",
+        "unit": "g"
+      },
+      {
+        "name": "Phytate, total or [phytate, determined by direct precipitation] or [phytate, determined by indirect precipitation]",
+        "value": "[35]",
+        "unit": "mg"
+      }
+    ],
+    "ingredients": [
+      "foutou of cassava",
+      "ripe plantain"
+    ]
+  },
+  {
+    "portion": "100g",
+    "code": "02_092",
+    "food_name_english": "Banakou né kou saagbo (Burkina Faso)*: foutou of yam and cassava",
+    "food_name_french": "Banakou né kou saagbo (Burkina Faso)*: foutou d’igname et manioc",
+    "scientific_name": "",
+    "food_group": "Starchy roots, tubers and their products/Racines amylacées, tubercules et produits dérivés",
+    "geographical_area": "Burkina Faso",
+    "components": [
+      {
+        "name": "Energy",
+        "value": "433",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "102",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "71.6",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "1.5",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "0.3",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "21.5",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "3.9",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "1.2",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "23",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "1.2",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "14",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "40",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "244",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "6",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "0.86",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0.07",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "4",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "2",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "26",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E (expressed in alpha-tocopherol equivalents) or [alpha-tocopherol]",
+        "value": "0.24",
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.04",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.02",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "0.8",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "0.5",
+        "unit": "mg"
+      },
+      {
+        "name": "Tryptophan",
+        "value": "16",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "0.13",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "15",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "15",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "12",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "0.07",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "0.02",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "0.12",
+        "unit": "g"
+      },
+      {
+        "name": "Linoleic acid",
+        "value": "0.1",
+        "unit": "g"
+      },
+      {
+        "name": "Alpha-linolenic acid",
+        "value": "0.02",
+        "unit": "g"
+      },
+      {
+        "name": "Phytate, total or [phytate, determined by direct precipitation] or [phytate, determined by indirect precipitation]",
+        "value": "22",
+        "unit": "mg"
+      }
+    ],
+    "ingredients": [
+      "foutou of yam",
+      "cassava"
+    ]
+  },
+  {
+    "portion": "100g",
+    "code": "02_021",
+    "food_name_english": "Cassava, sweet, tuber, white flesh, dried",
+    "food_name_french": "Manioc, doux, tubercule, chair blanche, séché",
+    "scientific_name": "Manihot esculenta",
+    "food_group": "Starchy roots, tubers and their products/Racines amylacées, tubercules et produits dérivés",
+    "geographical_area": null,
+    "components": [
+      {
+        "name": "Edible portion coefficient 1",
+        "value": "1",
+        "unit": "from as purchased to as described"
+      },
+      {
+        "name": "Energy",
+        "value": "1470",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "348",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "6.7",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "1.3",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "[0.5]",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "80",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "9.1",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "2.4",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "121",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "3.7",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "31",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "118",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "410",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "5",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "0.9",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0.15",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "2",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "1",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "12",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E (expressed in alpha-tocopherol equivalents) or [alpha-tocopherol]",
+        "value": "0.43",
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.11",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.07",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "1.6",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "1.4",
+        "unit": "mg"
+      },
+      {
+        "name": "Tryptophan",
+        "value": "12",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "0.17",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "46",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "46",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "7",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "0.14",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "0.02",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "0.22",
+        "unit": "g"
+      },
+      {
+        "name": "Linoleic acid",
+        "value": "0.19",
+        "unit": "g"
+      },
+      {
+        "name": "Alpha-linolenic acid",
+        "value": "0.03",
+        "unit": "g"
+      }
+    ],
+    "ingredients": [
+      "Cassava",
+      "sweet",
+      "tuber",
+      "white flesh",
+      "dried"
+    ]
+  }
+]

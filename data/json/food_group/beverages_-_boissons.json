@@ -1,0 +1,212 @@
+[
+  {
+    "portion": "100g",
+    "code": "12_001",
+    "food_name_english": "Beer, European (4.6% v/v alcohol)",
+    "food_name_french": "Bière, européenne (4.6% d’alcool)",
+    "scientific_name": "",
+    "food_group": "Beverages/Boissons",
+    "geographical_area": null,
+    "components": [
+      {
+        "name": "Edible portion coefficient 1",
+        "value": "1.00",
+        "unit": "from as purchased to as described"
+      },
+      {
+        "name": "Energy",
+        "value": "172",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "41",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "92.3",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "0.3",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "3.7",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "0.1",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "4",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "tr",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "9",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "26",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "33",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "10",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "0.01",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0.01",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E (expressed in alpha-tocopherol equivalents) or [alpha-tocopherol]",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.01",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.02",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "0.6",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "0.5",
+        "unit": "mg"
+      },
+      {
+        "name": "Tryptophan",
+        "value": "3",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "0.03",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "6",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "6",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "tr",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Linoleic acid",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Alpha-linolenic acid",
+        "value": "0",
+        "unit": "g"
+      }
+    ],
+    "ingredients": [
+      "Beer",
+      "European (4.6% v/v alcohol)"
+    ]
+  }
+]

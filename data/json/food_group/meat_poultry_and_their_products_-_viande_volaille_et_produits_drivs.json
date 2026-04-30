@@ -1,0 +1,188 @@
+[
+  {
+    "portion": "100g",
+    "code": "07_008",
+    "food_name_english": "Ant, flying, dried",
+    "food_name_french": "Fourmi, volante, séchée",
+    "scientific_name": "Various species",
+    "food_group": "Meat, poultry and their products/Viande, volaille et produits dérivés",
+    "geographical_area": null,
+    "components": [
+      {
+        "name": "Edible portion coefficient 1",
+        "value": "1.00",
+        "unit": "from as purchased to as described"
+      },
+      {
+        "name": "Energy",
+        "value": "2140",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "514",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "2.9",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "42.2",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "[31.9]",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "11.2",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "6.7",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "5.0",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "112",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "22.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "68",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "625",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "595",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "176",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "9.72",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "2.83",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "[72]",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "[66]",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "[61]",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "[65]",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "[6.7]",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin E (expressed in alpha-tocopherol equivalents) or [alpha-tocopherol]",
+        "value": "[3.60]",
+        "unit": "mg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.64",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "3.30",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "[5.7]",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "5.7",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B6",
+        "value": "0.27",
+        "unit": "mg"
+      },
+      {
+        "name": "Folate, total or [folate, sum of vitamers] (vitamin B9)",
+        "value": "95",
+        "unit": "mcg"
+      },
+      {
+        "name": "Folate, dietary folate equivalents",
+        "value": "95",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "1",
+        "unit": "mg"
+      },
+      {
+        "name": "Fatty acids, total saturated",
+        "value": "14.40",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total monounsaturated",
+        "value": "17.40",
+        "unit": "g"
+      },
+      {
+        "name": "Fatty acids, total polyunsaturated",
+        "value": "2.72",
+        "unit": "g"
+      }
+    ],
+    "ingredients": [
+      "Ant",
+      "flying",
+      "dried"
+    ]
+  }
+]

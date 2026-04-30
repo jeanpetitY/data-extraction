@@ -1,0 +1,77 @@
+Food name in English,Processing of foods in English,Food name in French,Processing of foods in French,Calcium,Iron,Magnesium,Phosphorus,Potassium,Sodium,Zinc,Copper,Vitamin A,Vitamin D,Vitamin E,Thiamine (vitamin B1),Riboflavin (vitamin B2),Niacin,Vitamin B6,Folate,Vitamin B12,Vitamin C,Phytate§,IP6§
+Nom d’aliment en anglais,Transformation des aliments en anglais,Nom d’aliment en français,Transformation des aliments en français,Calcium,Fer,Magnésium,Phosphore,Potassium,Sodium,Zinc,Cuivre,Vitamine A,Vitamine D,Vitamine E,Thiamine (vitamine B1),Riboflavin (vitamine B2),Niacine,Vitamine B6,Folate,Vitamine B12,Vitamine C,Phytate§,IP6§
+,,,,CA,FE,MG,P,K,,ZN,CU,"VITA, VITA_RAE, RETOL, CARTB, CARTA, CRYPXB",VITD,"VITE, TOCPHA,
+TOCPHB,
+TOCPHG,
+TOCPHD",THIA,RIBF,"NIA, NIAEQ",VITB6C,"FOL, FOLAC, FOLFD, FOLDFE, FOLSUM",VITB12,VITC,"PHYTCPP, PHYTCPPD, PHYTCPPI",IP6
+Cereals and their products/Céréales et produits dérivés,,,,,,,,,,,,,,,,,,,,,,,
+Grain and grain product,Stewed,Grain et produit de grain,Mijoté,1,1,1,1,1,1,1,1,0.95,1,1,0.75,1,0.95,0.8,0.8,0.95,0.7,0.51,0.51
+Grain and grain product,"Boiled, steamed",Grain et produit de grain,"Bouilli, cuit à la vapeur",1,1,1,1,1,1,1,1,0.9,1,1,0.8,0.9,0.9,0.9,0.7,1,0.8,0.83,0.83
+Pasta,Boiled,Pâtes,Bouillies,0.95,0.75,0.85,0.95,0.6,0.5,1,0.9,0.9,1,1,0.85,0.75,0.9,0.9,0.7,1,0.7,0.83,0.83
+Pasta,"Boiled, with cooking liquid consumed",Pâtes,"Bouillies, avec liquide de cuisson consommé",0.5,0.65,0.95,0.85,0.95,0.75,1,0.9,0.95,1,1,0.8,0.9,0.9,0.85,0.7,1,0.7,0.83,0.83
+Pasta,Fried in oil,Pâtes,Frites dans l’huile,1,1,1,1,1,1,1,1,0.9,1,1,0.9,0.9,0.9,0.9,0.7,1,0.85,1,1
+"Rice and other grain, whole",Boiled,"Riz et autres grains, complet",Bouilli,1,1,1,0.95,0.8,0.8,0.95,1,0.9,1,1,0.5,0.75,0.75,0.5,0.7,0.75,0.7,0.51,0.51
+"Rice and other grain, whole","Boiled, with cooking liquid consumed","Riz et autres grains, complet","Bouilli, avec liquide de cuisson consommé",1,1,1,1,1,1,1,1,0.95,1,1,0.75,1,0.95,0.8,0.8,0.95,0.7,0.51,0.51
+"Rice and other grain, polished",Boiled,"Riz et autres grains, poli",Bouilli,1,0.95,1,0.95,0.55,0.6,0.95,0.95,0.9,1,1,0.5,0.5,0.75,0.5,0.7,0.75,0.7,0.51,0.51
+"Rice and other grain, polished","Boiled, with cooking liquid consumed","Riz et autres grains, poli","Bouilli, avec liquide de cuisson consommé",1,1,1,1,1,1,1,1,0.95,1,1,0.75,1,0.95,0.8,0.8,0.95,0.7,0.51,0.51
+"Starchy roots, tubers and their products/Racines amylacées, tubercules et produits dérivés",,,,,,,,,,,,,,,,,,,,,,,
+Potato product,Deep fried,Produit à base de pomme de terre,Frit,1,1,1,1,1,1,1,1,0.2*,1,1,0.8,1,0.95,0.9,0.75,0.8,0.1*,0.54,0.54
+Starchy root and potato,Boiled,Racine amylacée et pomme de terre,Bouilli,0.95,0.93,0.9,0.93,0.8,0.8,0.9,0.9,0.95,1,1,0.78,0.88,0.75,0.75,0.63,0.75,0.7,0.59,0.59
+Starchy root and potato,Cooked with moist heat with cooking liquid,Racine amylacée et pomme de terre,Cuit par chaleur humide avec liquide de cuisson,1,1,1,1,1,1,1,1,1,1,1,0.9,0.95,0.9,0.93,0.78,0.9,0.9,0.59,0.59
+Starchy root and potato,Deep fried,Racine amylacée et pomme de terre,Frit,1,1,1,1,1,1,1,1,0.2*,0.95,1,0.83,0.98,0.95,0.93,0.78,0.85,0.1*,0.59,0.59
+Legumes and their products/Légumineuses et produits dérivés,,,,,,,,,,,,,,,,,,,,,,,
+Pulses,Boiled (unsoaked),Légumineuses,Bouillies (non trempées),0.85,0.85,0.85,0.9,0.75,0.75,0.9,0.7,1,1,0.9,0.65,0.75,0.65,0.7,0.5,1,0.6,0.81,0.81
+Pulses,Stewed (unsoaked),Légumineuses,Mijotées (non trempées),1,1,1,1,1,1,1,1,1,1,1,0.8,1,0.8,0.8,0.6,1,0.6,0.81,0.81
+Pulses,Boiled (soaked and cooked in different water),Légumineuses,Bouillies (trempées et cuites dans différentes eaux),0.85,0.85,0.85,0.9,0.75,0.75,0.9,0.7,1,1,0.9,0.65,0.75,0.65,0.7,0.5,1,0.6,0.67,0.67
+Pulses,Stewed (soaked and cooked in different water),Légumineuses,Mijotées (trempées et cuites dans différentes eaux),1,1,1,1,1,1,1,1,1,1,1,0.8,1,0.8,0.8,0.6,1,0.6,0.67,0.67
+Vegetables and their products/Légumes et produits dérivés,,,,,,,,,,,,,,,,,,,,,,,
+Leafy vegetables,Boiled,Légumes-feuilles,Bouillis,0.95,0.75,0.6,0.9,0.5,0.75,0.75,0.95,0.9,1,1,0.65,0.65,0.65,0.65,0.5,0.6,0.4,0.9,0.9
+Leafy vegetables,Stewed,Légumes-feuilles,Mijotés,1,1,1,1,1,1,1,1,0.9,1,1,0.9,0.95,0.95,0.9,0.7,0.7,0.6,0.54,0.54
+Leafy vegetables,Baked or roasted,Légumes-feuilles,Cuits au four ou rôtis,1,1,1,1,1,1,1,1,0.2*,1,1,0.95,0.9,0.95,0.9,0.7,0.7,0.1*,0.54,0.54
+"Root, tuber and bulb vegetables",Boiled,"Racines, tubercules et légumes-bulbes",Bouillis,0.95,0.75,0.6,0.9,0.45,0.55,0.75,0.95,0.9,1,1,0.7,0.7,0.7,0.7,0.5,0.6,0.4,0.9,0.9
+"Root, tuber and bulb vegetables",Stewed,"Racines, tubercules et légumes-bulbes",Mijotés,1,1,1,1,1,1,1,1,0.9,1,1,0.9,0.95,0.95,0.9,0.7,0.7,0.85,0.54,0.54
+"Root, tuber and bulb vegetables","Sautéed, stir-fried","Racines, tubercules et légumes-bulbes",Sautés,1,1,1,1,1,1,1,1,0.2*,1,1,0.9,0.95,0.95,0.9,0.7,0.9,0.1*,0.54,0.54
+"Stem, flower, fruit, corn, seed",Boiled,"Tige, fleur, fruit, maïs, graine",Bouilli,0.95,0.75,0.6,0.9,0.5,0.75,0.75,0.95,0.9,1,1,0.65,0.65,0.65,0.65,0.5,0.7,0.65,0.9,0.9
+"Stem, flower, fruit, corn, seed",Stewed,"Tige, fleur, fruit, maïs, graine",Mijoté,1,1,1,1,1,1,1,1,0.9,1,1,0.9,0.95,0.95,0.9,0.7,0.7,0.8,0.54,0.54
+"Stem, flower, fruit, corn, seed",Baked or roasted,"Tige, fleur, fruit, maïs, graine",Cuit au four ou rôti,1,1,1,1,1,1,1,1,0.2*,1,1,0.9,0.95,0.95,0.9,0.7,0.7,0.1*,1,1
+"Stem, flower, fruit, corn, seed","Sautéed, stir-fried","Tige, fleur, fruit, maïs, graine",Sauté,1,1,1,1,1,1,1,1,0.2*,1,1,0.9,0.95,0.95,0.9,0.7,0.8,0.1*,0.54,0.54
+"Meat, poultry and their products/Viande, volaille et produits dérivés",,,,,,,,,,,,,,,,,,,,,,,
+Beef,"Boiled, steamed",Bœuf,"Bouilli, cuit à la vapeur",0.8,1,0.6,0.65,0.5,0.45,1#,0.95#,0.75,0.75,0.75,0.4,0.8,0.5,0.4,0.65,0.6,1,1,1
+Beef,Broiled or grilled,Bœuf,Grillé,0.9,0.95,0.85,0.9,0.85,0.85,1,1,0.75,0.55,0.55,0.7,0.9,0.8,0.6,0.85,0.8,0.8,1,1
+"Beef, with sauce","Cooked with moist heat (boiled, steamed, stewed, braised)","Bœuf, avec sauce","Cuit par chaleur humide (bouilli, cuit à la vapeur, mijoté, braisé)",1,1,1,1,1,1,1#,1#,0.8,0.8,1,0.6,1,0.8,0.6,0.8,0.7,0.75,1,1
+Chicken,"Boiled, steamed",Poulet,"Bouilli, cuit à la vapeur",0.85,0.8,0.7,0.7,0.4,0.4,1#,0.5#,0.55,0.55,0.55,0.55,0.95,0.6,0.6,0.5,0.5,1,1,1
+Chicken,Broiled or grilled,Poulet,Grillé,0.95,0.9,0.75,0.8,0.8,0.8,1,0.95,0.75,0.75,0.8,0.6,0.9,0.8,0.6,0.6,0.65,0.8,1,1
+"Chicken, with sauce","Cooked with moist heat (boiled, steamed, stewed, braised)","Poulet, avec sauce","Cuit par chaleur humide (bouilli, vapeur, mijoté, braisé)",1,1,1,1,1,1,1#,1#,0.8,0.8,1,0.7,1,0.8,0.8,0.7,0.7,0.8,1,1
+"Lamb, mutton and game","Boiled, steamed","Agneau, mouton et gibier","Bouilli, cuit à la vapeur",0.8,1,0.65,0.8,0.55,0.6,1#,0.95#,0.8,0.8,0.8,0.4,0.55,0.5,0.4,0.6,0.6,1,1,1
+"Lamb, mutton and game",Broiled or grilled,"Agneau, mouton et gibier",Grillé,1,0.95,0.85,0.85,0.85,0.85,1,0.9,0.75,0.8,0.8,0.6,0.9,0.8,0.65,0.7,0.8,0.8,1,1
+"Lamb, mutton and game, with sauce","Stewed, braised","Agneau, mouton et gibier, avec sauce","Mijoté, braisé",1,1,1,1,1,1,1#,1#,0.8,0.8,1,0.7,1,0.8,0.75,0.7,0.7,0.8,1,1
+Meat and meat product,"Boiled, steamed",Viande et produits carnés,"Bouilli, cuit à la vapeur",0.83,0.93,0.78,0.77,0.6,0.59,1#,0.95#,0.75,0.78,0.78,0.58,0.84,0.59,0.55,0.61,0.6,0.7,1,1
+Meat and meat product,Broiled or grilled,Viande et produits carnés,Grillé,0.94,0.92,0.83,0.83,0.8,0.84,0.95,0.9,0.8,0.81,0.84,0.71,0.91,0.82,0.68,0.75,0.74,0.78,1,1
+"Meat and meat product, with sauce","Stewed, braised","Viande et produits carnés, avec sauce","Mijoté, braisé",0.96,0.99,1,1,0.96,0.96,1#,1#,0.88,0.89,1,0.79,1,0.85,0.8,0.73,0.81,0.8,1,1
+Offal,"Boiled, steamed",Abats,"Bouillis, cuit à la vapeur",0.8,0.95,0.8,0.7,0.6,0.6,0.85#,0.8#,0.8,0.9,0.9,0.7,0.88,0.5,0.8,0.65,0.65,0.7,1,1
+Offal,Broiled or grilled,Abats,Grillé,1,0.95,0.85,0.8,0.75,0.85,0.85,0.8,0.9,0.95,1,0.85,0.95,0.85,0.8,0.85,0.75,0.75,1,1
+"Offal, with sauce","Stewed, braised","Abats, avec sauce","Mijoté, braisé",1,1,1,1,1,1,1#,1#,0.9,0.95,1,0.9,1,0.9,0.85,0.7,0.85,0.8,1,1
+Poultry,"Boiled, steamed",Volaille,"Bouilli, cuit à la vapeur",0.85,0.8,0.7,0.7,0.43,0.4,1#,0.5#,0.55,0.55,0.55,0.5,0.93,0.6,0.6,0.5,0.5,1,1,1
+Poultry,Broiled or grilled,Volaille,Grillé,0.9,0.75,0.8,0.8,0.8,1,1,0.95,0.75,0.75,0.8,0.6,0.9,0.8,0.6,0.6,0.65,0.8,1,1
+"Poultry, with sauce","Stewed, braised","Volaille, avec sauce","Mijoté, braisé",1,1,1,1,1,1,1#,1#,0.8,0.8,1,0.7,1,0.8,0.8,0.63,0.7,0.8,1,1
+Pork,"Boiled, steamed",Porc,"Bouilli, cuit à la vapeur",0.8,1,0.6,0.6,0.5,0.45,0.8#,0.95#,0.78,0.75,0.75,0.3,0.7,0.5,0.45,0.7,0.6,1,1,1
+Pork ,Broiled or grilled,Porc ,Grillé,0.75,0.8,0.95,0.9,0.85,0.9,1,0.95,0.75,0.8,0.85,0.7,0.85,0.8,0.65,0.85,0.9,0.8,1,1
+"Pork, with sauce","Stewed, braised","Porc, avec sauce","Mijoté, braisé",1,1,1,1,1,1,1#,1#,0.8,0.8,1,0.7,1,0.8,0.6,0.8,0.8,0.8,1,1
+Eggs and their products/Œufs et produits dérivés,,,,,,,,,,,,,,,,,,,,,,,
+Egg and egg product,Cooked with moist heat (boiled),Œufs et leurs produits,Cuit par chaleur humide (bouilli),0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,1,0.8,0.8,0.8,0.8,0.8,0.8,0.8,1,1
+Fish and its products/Poisson et produits dérivés,,,,,,,,,,,,,,,,,,,,,,,
+Fatty fish,"Cooked with moist heat (boiled, steamed, stewed)",Poisson gras,"Cuit par chaleur humide (bouilli, cuit à la vapeur, mijoté)",1,0.8,0.85,0.85,0.75,0.85,1,0.9,0.7,0.7,0.7,0.75,0.7,0.7,0.7,0.7,0.8,0.8,1,1
+Fatty fish,Broiled or grilled,Poisson gras,Grillé,1,0.85,0.9,0.9,0.85,0.85,1,0.95,0.8,0.8,0.8,0.9,0.9,0.9,0.9,0.8,0.9,0.8,1,1
+"Fatty fish, with sauce","Cooked with moist heat (boiled, steamed, stewed)","Poisson gras, avec sauce","Cuit par chaleur humide (bouilli, cuit à la vapeur, mijoté)",1,1,1,1,1,1,1,1,0.9,0.9,1,0.85,1,0.95,0.85,0.85,0.9,0.85,1,1
+Lean fish,"Cooked with moist heat (boiled, steamed, stewed)",Poisson maigre,"Cuit par chaleur humide (bouilli, cuit à la vapeur, mijoté)",1,0.8,0.85,0.85,0.75,0.85,1,0.9,0.9,0.9,1,0.75,0.7,0.7,0.7,0.7,0.8,0.8,1,1
+Lean fish,Broiled or grilled,Poisson maigre,Grillé,1,0.85,0.9,0.9,0.85,0.85,1,0.95,0.9,0.9,1,0.9,0.9,0.9,0.9,0.8,0.9,0.8,1,1
+"Lean fish, with sauce","Cooked with moist heat (boiled, steamed, stewed)","Poisson maigre, avec sauce","Cuit par chaleur humide (bouilli, cuit à la vapeur, mijoté)",1,1,1,1,1,1,1,1,0.9,0.9,1,0.85,1,0.95,0.85,0.85,0.9,0.85,1,1
+Seafood and related product,"Cooked with moist heat (boiled, steamed, stewed)",Fruits de mer et leurs produits,"Cuit par chaleur humide (bouilli, cuit à la vapeur, mijoté)",1,0.8,0.85,0.85,0.75,0.85,1,0.9,0.83,0.83,0.9,0.75,0.7,0.7,0.7,0.7,0.8,0.8,1,1
+Seafood and related product,Broiled or grilled,Fruits de mer et leurs produits,Grillé,1,0.85,0.9,0.9,0.85,0.85,1,0.95,0.87,0.87,0.93,0.9,0.9,0.9,0.9,0.8,0.9,0.8,1,1
+"Seafood and related product, with sauce","Cooked with moist heat (boiled, steamed, stewed)","Fruits de mer et leurs produits, avec sauce","Cuit par chaleur humide (bouilli, cuit à la vapeur, mijoté)",1,1,1,1,1,1,1,1,0.9,0.9,1,0.85,1,0.95,0.85,0.85,0.9,0.85,1,1
+,,,,,,,,,,,,,,,,,,,,,,,
+"Unless otherwise specified, all retention factors are from: Vásquez-Caicedo, A.L., Bell, S. & Hartmann, B. 2008. Report on collection of rules on use of recipe calculation procedures including the use of yield and retention factors for imputing nutrient values for composite foods. EuroFIR Technical Report (D2.2.9). European Food Information Resource (EuroFIR). ",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+* Retention factors for vitamin A and vitamin C were adopted from observations from the literature and own calculations,,,,,,,,,,,,,,,,,,,,,,,
+"# Values from: Bognár, A. 2002. Tables of weight yield of food and retention factors of food constituents for the calculation of nutrition composition of cooked foods (dishes). Karlsruhe, Germany, Bundesforschungsanstalt für Ernährung. ",,,,,,,,,,,,,,,,,,,,,,,
+§ All retention factors for Phytate and IP6 are from: FAO. 2017c. FAO/INFOODS Global Food Composition Database for Pulses. Version 1.0 – uPulses1.0. Rome; and from: FAO & Government of Kenya. 2018. Kenya Food Composition Tables [online]. Nairobi.,,,,,,,,,,,,,,,,,,,,,,,

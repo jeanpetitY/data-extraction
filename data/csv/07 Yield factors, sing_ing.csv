@@ -1,0 +1,448 @@
+Code,Food name in English,Nom d’aliment en français,Yield factor / Factor de rendement,Source
+Cereals and their products/Céréales et produits dérivés,,,,
+01_124,"Fonio, black, whole grains, boiled* (as part of a recipe)","Fonio, noir, grains entiers, bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_049,"Fonio, black, whole grains, boiled* (without salt), drained","Fonio, noir, grains entiers, bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_126,"Fonio, decorticated grains (bran removed), boiled* (as part of a recipe)","Fonio, grains décortiqués (sans son), bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_051,"Fonio, decorticated grains (bran removed), boiled* (without salt), drained","Fonio, grains décortiqués (sans son), bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_128,"Fonio, decorticated grains (bran removed), washed (mid wet), boiled* (as part of a recipe)","Fonio, grains décortiqués (sans son), lavé (humide), bouilli* (ingrédient de recette)",1.6,"Calculated to give same moisture content as for dry, cooked fonio"
+01_127,"Fonio, decorticated grains (bran removed), washed (mid wet), boiled* (without salt), drained","Fonio, grains décortiqués (sans son), lavé (humide), bouilli* (sans sel), égoutté",1.6,"Calculated to give same moisture content as for dry, cooked fonio"
+01_125,"Fonio, white, whole grains, boiled* (as part of a recipe)","Fonio, blanc, grains entiers, bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_003,"Fonio, white, whole grains, boiled* (without salt), drained","Fonio, blanc, grains entiers, bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_103,"Instant noodles (Indomie), made from wheat flour, previously fried and dried, without flavouring, boiled and drained*","Nouilles instantanées (Indomie), de farine de blé, préalablement frites et séchées, sans aromatisants, bouillies et égouttées*",2.28,"Own measurement (Instant noodles, boiled, drained)"
+01_053,"Macaroni, boiled* (without salt), drained","Macaroni, bouilli* (sans sel), égoutté",2.9,"Bergström, 1994 (Spaghetti, boiled) "
+01_123,"Maize, combined varieties, whole kernel (Benin), boiled* (as part of a recipe)","Maïs, mélange de variétés, grain entier (Bénin), bouilli* (ingrédient de recette)",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_062,"Maize, combined varieties, whole kernel (Benin), boiled* (without salt), drained","Maïs, mélange de variétés, grain entier (Bénin), bouilli* (sans sel), égoutté",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_104,"Maize, white, whole kernel, boiled* (as part of a recipe)","Maïs, blanc, grain entier, bouilli* (ingrédient de recette)",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_005,"Maize, white, whole kernel, boiled* (without salt), drained","Maïs, blanc, grain entier, bouilli* (sans sel), égoutté",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_119,"Maize, white, whole kernel, decorticated, boiled* (as part of a recipe)","Maïs, blanc, grain entier, décortiqué, bouilli* (ingrédient de recette)",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_118,"Maize, white, whole kernel, decorticated, boiled* (without salt), drained","Maïs, blanc, grain entier, décortiqué, bouilli* (sans sel), égoutté",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_120,"Maize, yellow, whole kernel, boiled* (as part of a recipe)","Maïs, jaune, grain entier, bouilli* (ingrédient de recette)",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_007,"Maize, yellow, whole kernel, boiled* (without salt), drained","Maïs, jaune, grain entier, bouilli* (sans sel), égoutté",3.1,"KEN18(01049 Maize, yellow, grain, dry, boiled, drained)"
+01_133,"Oats, porridge* (without salt)","Avoine, bouillie* (sans sel)",5.78,"Matthews and Garrison, 1975 (1551 Oats, rolled, cooked - 1 part cereal in 2 to 2 1/4 parts water for 5 min.)"
+01_132,"Pearl millet, combined varieties, whole grains (Burkina Faso), boiled* (as part of a recipe)","Mil à chandelle, mélange de variétés, grains entiers, (Burkina Faso), bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_064,"Pearl millet, combined varieties, whole grains (Burkina Faso), boiled* (without salt), drained","Mil à chandelle, mélange de variétés, grains entiers, (Burkina Faso), bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_131,"Pearl millet, decorticated, boiled* (as part of a recipe)","Mil à chandelle, décortiqué, bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_130,"Pearl millet, decorticated, boiled* (without salt), drained","Mil à chandelle, décortiqué, bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_129,"Pearl millet, whole grains, boiled* (as part of a recipe)","Mil à chandelle, grain entier, bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_033,"Pearl millet, whole grains, boiled* (without salt), drained","Mil à chandelle, grain entier, bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled) "
+01_061,"Porridge, soft, from degermed white maize grit* (without salt)","Bouillie, liquide, de gruau de maïs blanc dégermé* (sans sel)",7.3,SA10(4405)
+01_056,"Porridge, soft, from degermed yellow maize grit* (without salt)","Bouillie, liquide, de gruau de maïs jaune dégermé* (sans sel)",7.3,SA10(4405)
+01_154,"Porridge, soft, from refined (special) white maize flour fortified with vitamin A (Nigeria)* (without salt)","Bouillie, liquide, de farine de maïs blanc raffinée (spécial), enrichie en vitamine A (Nigéria)* (sans sel)",7.3,SA10(4405)
+01_112,"Porridge, soft, from refined (special) white maize flour, unfortified* (without salt)","Bouillie, liquide, de farine de maïs blanc raffinée (spécial), non enrichie* (sans sel)",7.3,SA10(4405)
+01_117,"Porridge, soft, from refined (super) white maize flour fortified with vitamin A (Nigeria)* (without salt)","Bouillie, liquide, de farine de maïs blanc raffinée (super), enrichie en vitamine A (Nigéria)* (sans sel)",7.3,SA10(4405)
+01_115,"Porridge, soft, from refined (super) white maize flour, unfortified* (without salt)","Bouillie, liquide, de farine de maïs blanc raffinée (super), non enrichie* (sans sel)",7.3,SA10(4405)
+01_110,"Porridge, soft, from sifted white maize meal fortified with vitamin A (Nigeria)* (without salt)","Bouillie, liquide, de farine de maïs blanc tamisée, enrichie en vitamine A (Nigéria)* (sans sel)",7.3,SA10(4405)
+01_108,"Porridge, soft, from sifted white maize meal, unfortified* (without salt)","Bouillie, liquide, de farine de maïs blanc tamisée, non enrichie* (sans sel)",7.3,SA10(4405)
+01_106,"Porridge, soft, from wholegrain white maize meal* (without salt)","Bouillie, liquide, de farine de maïs blanc complète* (sans sel)",7.3,SA10(4405)
+01_122,"Porridge, soft, from wholegrain yellow maize meal* (without salt)","Bouillie, liquide, de farine de maïs jaune complète* (sans sel)",7.3,SA10(4405)
+01_076,"Porridge, stiff, from degermed white maize grit* (without salt)","Bouillie, épaisse, de gruau de maïs blanc dégermé* (sans sel)",2.7,SA10(4406)
+01_075,"Porridge, stiff, from degermed yellow maize grit* (without salt)","Bouillie, épaisse, de gruau de maïs jaune dégermé* (sans sel)",2.7,SA10(4406)
+01_113,"Porridge, stiff, from refined (special) white maize flour fortified with vitamin A (Nigeria)* (without salt)","Bouillie, épaisse, de farine de maïs blanc raffinée (spécial), enrichie en vitamine A (Nigéria)* (sans sel)",2.7,SA10(4406)
+01_111,"Porridge, stiff, from refined (special) white maize flour, unfortified* (without salt)","Bouillie, épaisse, de farine de maïs blanc raffinée (spécial), non enrichie* (sans sel)",2.7,SA10(4406)
+01_116,"Porridge, stiff, from refined (super) white maize flour fortified with vitamin A (Nigeria)* (without salt)","Bouillie, épaisse, de farine de maïs blanc raffinée (super), enrichie en vitamine A (Nigéria)* (sans sel)",2.7,SA10(4406)
+01_114,"Porridge, stiff, from refined (super) white maize flour, unfortified* (without salt)","Bouillie, épaisse, de farine de maïs blanc raffinée (super), non enrichie* (sans sel)",2.7,SA10(4406)
+01_109,"Porridge, stiff, from sifted white maize meal fortified with vitamin A (Nigeria)* (without salt)","Bouillie, épaisse, de farine de maïs blanc raffinée tamisée, enrichie en vitamine A (Nigéria)* (sans sel)",2.7,SA10(4406)
+01_107,"Porridge, stiff, from sifted white maize meal, unfortified* (without salt)","Bouillie, épaisse, de farine de maïs blanc tamisée, non enrichie* (sans sel)",2.7,SA10(4406)
+01_105,"Porridge, stiff, from wholegrain white maize meal* (without salt)","Bouillie, épaisse, de farine de maïs blanc complète* (sans sel)",2.7,SA10(4406)
+01_121,"Porridge, stiff, from wholegrain yellow maize meal* (without salt)","Bouillie, épaisse, de farine de maïs jaune complète* (sans sel)",2.7,SA10(4406)
+01_150,"Porridge, tô, from degermed white maize grit* (without salt)","Bouillie, tô, de gruau de maïs blanc dégermé* (sans sel)",5.0,Own measurement (Tô)
+01_155,"Porridge, tô, from degermed yellow maize grit* (without salt)","Bouillie, tô, de gruau de maïs jaune dégermé* (sans sel)",5.0,Own measurement (Tô)
+01_147,"Porridge, tô, from refined (special) white maize flour fortified with vitamin A (Nigeria)* (without salt)","Bouillie, tô, de farine de maïs blanc raffinée (spécial), enrichie en vitamine A (Nigéria)* (sans sel)",5.0,Own measurement (Tô)
+01_146,"Porridge, tô, from refined (special) white maize flour, unfortified* (without salt)","Bouillie, tô, de farine de maïs blanc raffinée (spécial), non enrichie* (sans sel)",5.0,Own measurement (Tô)
+01_149,"Porridge, tô, from refined (super) white maize flour fortified with vitamin A (Nigeria)* (without salt)","Bouillie, tô, de farine de maïs blanc raffinée (super), enrichie en vitamine A (Nigéria)* (sans sel)",5.0,Own measurement (Tô)
+01_148,"Porridge, tô, from refined (super) white maize flour, unfortified* (without salt)","Bouillie, tô, de farine de maïs blanc raffinée (super), non enrichie* (sans sel)",5.0,Own measurement (Tô)
+01_144,"Porridge, tô, from sifted white maize meal fortified with vitamin A (Nigeria)* (without salt)","Bouillie, tô, de farine de maïs blanc tamisée, enrichie en vitamine A (Nigéria)* (sans sel)",5.0,Own measurement (Tô)
+01_145,"Porridge, tô, from sifted white maize meal, unfortified* (without salt)","Bouillie, tô, de farine de maïs blanc tamisée, non enrichie* (sans sel)",5.0,Own measurement (Tô)
+01_143,"Porridge, tô, from wholegrain white maize meal* (without salt)","Bouillie, tô, de farine de maïs blanc complète* (sans sel)",5.0,Own measurement (Tô)
+01_151,"Porridge, tô, from wholegrain yellow maize meal* (without salt)","Bouillie, tô, de farine de maïs jaune complète* (sans sel)",5.0,Own measurement (Tô)
+01_152,"Rice, brown, boiled* (as part of a recipe)","Riz, brun, bouilli* (ingrédient de recette)",2.5,"Bergström, 1994 (Rice, brown, boiled)"
+01_035,"Rice, brown, boiled* (without salt), drained","Riz, brun, bouilli* (sans sel), égoutté",2.5,"Bergström, 1994 (Rice, brown, boiled)"
+01_136,"Rice, red native, hulled, boiled* (as part of a recipe)","Riz, rouge, indigène, décortiqué, bouilli* (ingrédient de recette)",2.5,"Bergström, 1994 (Rice, brown, boiled)"
+01_066,"Rice, red native, hulled, boiled* (without salt), drained","Riz, rouge, indigène, décortiqué, bouilli* (sans sel), égoutté",2.5,"Bergström, 1994 (Rice, brown, boiled)"
+01_137,"Rice, red native, milled, boiled* (as part of a recipe)","Riz, rouge, indigène, blanchi, bouilli* (ingrédient de recette)",2.98,"Bognár, 2002 (Rice, long corn, polished, boiled)"
+01_068,"Rice, red native, milled, boiled* (without salt), drained","Riz, rouge, indigène, blanchi, bouilli* (sans sel), égoutté",2.98,"Bognár, 2002 (Rice, long corn, polished, boiled)"
+01_135,"Rice, white, boiled* (as part of a recipe)","Riz, blanc, bouilli* (ingrédient de recette)",2.98,"Bognár, 2002 (Rice, long corn, polished, boiled)"
+01_038,"Rice, white, boiled* (without salt), drained","Riz, blanc, bouilli* (sans sel), égoutté",2.98,"Bognár, 2002 (Rice, long corn, polished, boiled)"
+01_134,"Rice, white, polished, boiled* (as part of a recipe)","Riz, blanc, poli, bouilli* (ingrédient de recette)",2.98,"Bognár, 2002 (Rice, long corn, polished, boiled)"
+01_069,"Rice, white, polished, boiled* (without salt), drained","Riz, blanc, poli, bouilli* (sans sel), égoutté",2.98,"Bognár, 2002 (Rice, long corn, polished, boiled)"
+01_138,"Sorghum, whole grains, boiled* (as part of a recipe)","Sorgho, grains entiers, bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled)"
+01_042,"Sorghum, whole grains, boiled* (without salt), drained","Sorgho, grains entiers, bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled)"
+01_139,"Sorghum, whole grains, red, boiled* (as part of a recipe)","Sorgho, grains entiers, rouge, bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled)"
+01_070,"Sorghum, whole grains, red, boiled* (without salt), drained","Sorgho, grains entiers, rouge, bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled)"
+01_140,"Sorghum, whole grains, white, boiled* (as part of a recipe)","Sorgho, grains entiers, blanc, bouilli* (ingrédient de recette)",2.4,"Bognár, 2002 (Millet, shacked corn, boiled)"
+01_071,"Sorghum, whole grains, white, boiled* (without salt), drained","Sorgho, grains entiers, blanc, bouilli* (sans sel), égoutté",2.4,"Bognár, 2002 (Millet, shacked corn, boiled)"
+01_186,"Teff, whole grains, boiled* (as part of a recipe)","Teff, grains entiers, bouilli* (ingrédient de recette)",1.78,"Bognár, 2002 (Wheat, whole, boiled, stewed)"
+01_185,"Teff, whole grains, boiled* (without salt), drained","Teff, grains entiers, bouilli* (sans sel), égoutté",1.78,"Bognár, 2002 (Wheat, whole, boiled, stewed)"
+01_142,"Wheat, whole grains, boiled* (as part of a recipe)","Blé, grains entiers, bouilli* (ingrédient de recette)",1.78,"Bognár, 2002 (Wheat, whole, boiled, stewed)"
+01_141,"Wheat, whole grains, boiled* (without salt), drained","Blé, grains entiers, bouilli* (sans sel), égoutté",1.78,"Bognár, 2002 (Wheat, whole, boiled, stewed)"
+"Starchy roots, tubers and their products/Racines amylacées, tubercules et produits dérivés",,,,
+02_051,"Cassava, tuber, white flesh, boiled* (as part of a recipe)","Manioc, tubercule, chair blanche, bouilli* (ingrédient de recette)",1.17,"KEN18(02023 Cassava, root, white, peeled, boiled with pressure, drained)"
+02_003,"Cassava, tuber, white flesh, boiled* (without salt), drained","Manioc, tubercule, chair blanche, bouilli* (sans sel), égoutté",1.17,"KEN18(02023 Cassava, root, white, peeled, boiled with pressure, drained)"
+02_053,"Cassava, tuber, yellow flesh, boiled* (as part of a recipe)","Manioc, tubercule, chair jaune, bouilli* (ingrédient de recette)",1.17,"KEN18(02023 Cassava, root, white, peeled, boiled with pressure, drained)"
+02_052,"Cassava, tuber, yellow flesh, boiled* (without salt), drained","Manioc, tubercule, chair jaune, bouilli* (sans sel), égoutté",1.17,"KEN18(02023 Cassava, root, white, peeled, boiled with pressure, drained)"
+02_054,"Cocoyam, tuber, white, boiled* (as part of a recipe)","Chou caraïbe, tubercule, blanc, bouilli* (ingrédient de recette)",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_006,"Cocoyam, tuber, white, boiled* (without salt), drained","Chou caraïbe, tubercule, blanc, bouilli* (sans sel), égoutté",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_056,"Cocoyam, tuber, yellow, boiled* (as part of a recipe)","Chou caraïbe, tubercule, jaune, bouilli* (ingrédient de recette)",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_055,"Cocoyam, tuber, yellow, boiled* (without salt), drained","Chou caraïbe, tubercule, jaune, bouilli* (sans sel), égoutté",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_058,"Plantain, ripe, ivory flesh, boiled* (as part of a recipe)","Banane plantain, mûre, chair ivoire, bouillie* (ingrédient de recette)",1.05,UK6 (Calc. from 13323 and 13324)
+02_057,"Plantain, ripe, ivory flesh, boiled* (without salt), drained","Banane plantain, mûre, chair ivoire, bouillie* (sans sel), égouttée",1.05,UK6 (Calc. from 13323 and 13324)
+02_060,"Plantain, ripe, orange flesh, boiled* (as part of a recipe)","Banane plantain, mûre, chair orange, bouillie* (ingrédient de recette)",1.05,UK6 (Calc. from 13323 and 13324)
+02_059,"Plantain, ripe, orange flesh, boiled* (without salt), drained","Banane plantain, mûre, chair orange, bouillie* (sans sel), égouttée",1.05,UK6 (Calc. from 13323 and 13324)
+02_065,"Plantain, unripe, ivory flesh, boiled* (as part of a recipe)","Banane plantain, verte, chair ivoire, bouillie* (ingrédient de recette)",1.05,UK6 (Calc. from 13323 and 13324)
+02_064,"Plantain, unripe, ivory flesh, boiled* (without salt), drained","Banane plantain, verte, chair ivoire, bouillie* (sans sel), égouttée",1.05,UK6 (Calc. from 13323 and 13324)
+02_067,"Plantain, unripe, orange flesh, boiled* (as part of a recipe)","Banane plantain, verte, chair orange, bouillie* (ingrédient de recette)",1.05,UK6 (Calc. from 13323 and 13324)
+02_066,"Plantain, unripe, orange flesh, boiled* (without salt), drained","Banane plantain, verte, chair orange, bouillie* (sans sel), égouttée",1.05,UK6 (Calc. from 13323 and 13324)
+02_063,"Plantain, unripe, pale flesh, boiled* (as part of a recipe)","Banane plantain, verte, chair claire, bouillie* (ingrédient de recette)",1.05,UK6 (Calc. from 13323 and 13324)
+02_062,"Plantain, unripe, pale flesh, boiled* (without salt), drained","Banane plantain, verte, chair claire, bouillie* (sans sel), égouttée",1.05,UK6 (Calc. from 13323 and 13324)
+02_068,"Potato, boiled* (as part of a recipe)","Pomme de terre, bouillie* (ingrédient de recette)",1.0,"Bognár, 2002 (Potato, without peel, boiled)"
+02_010,"Potato, boiled* (without salt), drained","Pomme de terre, bouillie* (sans sel), égouttée",1.0,"Bognár, 2002 (Potato, without peel, boiled)"
+02_070,"Sweet potato, deep yellow flesh, boiled* (as part of a recipe)","Patate douce, chair jaune foncé, bouillie* (ingrédient de recette)",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_012,"Sweet potato, deep yellow flesh, boiled* (without salt), drained","Patate douce, chair jaune foncé, bouillie* (sans sel), égouttée",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_073,"Sweet potato, orange flesh, boiled* (as part of a recipe)","Patate douce, chair orange, bouillie* (ingrédient de recette)",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_072,"Sweet potato, orange flesh, boiled* (without salt), drained","Patate douce, chair orange, bouillie* (sans sel), égouttée",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_069,"Sweet potato, pale flesh (white/cream/pale yellow), boiled* (as part of a recipe)","Patate douce, chair claire (blanche/crème/jaune pâle), bouillie* (ingrédient de recette)",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_023,"Sweet potato, pale flesh (white/cream/pale yellow), boiled* (without salt), drained","Patate douce, chair claire (blanche/crème/jaune pâle), bouillie* (sans sel), égouttée",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_071,"Sweet potato, yellow flesh, boiled* (as part of a recipe)","Patate douce, chair jaune, bouillie* (ingrédient de recette)",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_014,"Sweet potato, yellow flesh, boiled* (without salt), drained","Patate douce, chair jaune, bouillie* (sans sel), égouttée",1.0,"Matthews and Garrison, 1975 (2500 Sweet potatoes, boiled or steamed)"
+02_074,"Taro, tuber, white, boiled* (as part of a recipe)","Taro, tubercule, blanc, bouilli* (ingrédient de recette)",1.01,"Matthews and Garrison, 1975 (2528 Taro, boiled)"
+02_016,"Taro, tuber, white, boiled* (without salt), drained","Taro, tubercule, blanc, bouilli* (sans sel), égoutté",1.01,"Matthews and Garrison, 1975 (2528 Taro, boiled)"
+02_075,"Tiger nut, tuber, boiled* (as part of a recipe)","Souchet comestible (« noix tigrée »), tubercule, bouilli* (ingrédient de recette)",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_025,"Tiger nut, tuber, boiled* (without salt), drained","Souchet comestible (« noix tigrée »), tubercule, bouilli* (sans sel), égoutté",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_076,"Water yam, tuber, boiled* (as part of a recipe)","Grande igname, tubercule, bouillie* (ingrédient de recette)",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_018,"Water yam, tuber, boiled* (without salt), drained","Grande igname, tubercule, bouillie* (sans sel), égouttée",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_078,"Yam, tuber, combined cultivars (Nigeria), boiled* (as part of a recipe)","Igname, tubercule, cultivars combinés (Nigéria), bouilli* (ingrédient de recette)",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_035,"Yam, tuber, combined cultivars (Nigeria), boiled* (without salt), drained","Igname, tubercule, cultivars combinés (Nigéria), bouilli* (sans sel), égoutté",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_077,"Yam, tuber, pale, boiled* (as part of a recipe)","Igname, tubercule, chair pâle, bouilli* (ingrédient de recette)",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_020,"Yam, tuber, pale, boiled* (without salt), drained","Igname, tubercule, chair pâle, bouilli* (sans sel), égoutté",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_080,"Yam, tuber, three-leaved, pale, boiled* (as part of a recipe)","Igname, tubercule, à trois feuilles, chair pâle, bouilli* (ingrédient de recette)",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+02_079,"Yam, tuber, three-leaved, pale, boiled* (without salt, drained)","Igname, tubercule, à trois feuilles, chair pâle, bouilli* (sans sel), égoutté",0.95,"Bognár, 2002 (Root and tuber vegetables, boiled)"
+Legumes and their products/Légumineuses et produits dérivés,,,,
+03_063,"African locust bean, not soaked, boiled* (without salt), drained","Néré, non trempé, bouilli* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_064,"African locust bean, not soaked, boiled* (without salt), with cooking liquid","Néré, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_065,"African locust bean, soaked, boiled in different water* (without salt), drained","Néré, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.3,uPulses (average of original YF for all pulses)
+03_066,"African locust bean, soaked, boiled in different water* (without salt), with cooking liquid","Néré, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",3.2,uPulses (average of original YF for all pulses)
+03_011,"African yam bean, not soaked, boiled* (without salt), drained","Haricot igname, non trempé, bouilli* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_060,"African yam bean, not soaked, boiled* (without salt), with cooking liquid","Haricot igname, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_061,"African yam bean, soaked, boiled in different water* (without salt), drained","Haricot igname, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.3,uPulses (average of original YF for all pulses)
+03_062,"African yam bean, soaked, boiled in different water* (without salt), with cooking liquid","Haricot igname, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",3.2,uPulses (average of original YF for all pulses)
+03_019,"Bambara groundnut, combined varieties (Ghana), not soaked, boiled* (without salt), drained","Pois bambara, mélange de variétés (Ghana), non trempé, bouilli* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_071,"Bambara groundnut, combined varieties (Ghana), soaked, boiled in different water* (without salt), drained","Pois bambara, mélange de variétés (Ghana), trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_012,"Bambara groundnut, not soaked, boiled* (without salt), drained","Pois bambara, non trempé, bouilli* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_020,"Bambara groundnut, red, not soaked, boiled* (without salt), drained","Pois bambara, rouge, non trempé, bouilli* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_074,"Bambara groundnut, red, soaked, boiled in different water* (without salt), drained","Pois bambara, rouge, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_068,"Bambara groundnut, soaked, boiled in different water* (without salt), drained","Pois bambara, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_021,"Bambara groundnut, white, not soaked, boiled* (without salt), drained","Pois bambara, blanc, non trempé, bouilli* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_077,"Bambara groundnut, white, soaked, boiled in different water* (without salt), drained","Pois bambara, blanc, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.0,Own measurement (Bambara groundnuts boiled with potash)
+03_023,"Bean, white, not soaked, boiled* (without salt), drained","Haricot blanc, non trempé, bouilli* (sans sel), égoutté",2.6,uPulses (PHV019)
+03_079,"Bean, white, not soaked, boiled* (without salt), with cooking liquid","Haricot blanc, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.33,uPulses (PHV020)
+03_081,"Bean, white, soaked, boiled in different water* (without salt), drained","Haricot blanc, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.6,uPulses (PHV019)
+03_082,"Bean, white, soaked, boiled in different water* (without salt), with cooking liquid","Haricot blanc, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.33,uPulses (PHV020)
+03_025,"Broad bean, not soaked, boiled* (without salt), drained","Fève, non trempée, bouillie* (sans sel), égouttée",2.8,"US28(Calc. from 16052 Broadbeans (fava beans), mature seeds, raw; 16053 Broadbeans (fava beans), mature seeds, cooked, boiled, without salt)"
+03_083,"Broad bean, not soaked, boiled* (without salt), with cooking liquid","Fève, non trempée, bouillie* (sans sel), avec liquide de cuisson",4.6,uPulses (VIF004)
+03_084,"Broad bean, soaked, boiled in different water* (without salt), drained","Fève, trempée, bouillie dans différentes eaux* (sans sel), égouttée",2.8,"US28(Calc. from 16052 Broadbeans (fava beans), mature seeds, raw; 16053 Broadbeans (fava beans), mature seeds, cooked, boiled, without salt)"
+03_085,"Broad bean, soaked, boiled in different water* (without salt), with cooking liquid","Fève, trempée, bouillie dans différentes eaux* (sans sel), avec liquide de cuisson",4.6,uPulses (VIF004)
+03_026,"Cowpea, black, not soaked, boiled* (without salt), drained","Niébé, noir, non trempé, bouilli* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_092,"Cowpea, black, not soaked, boiled* (without salt), with cooking liquid","Niébé, noir, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_093,"Cowpea, black, soaked, boiled in different water* (without salt), drained","Niébé, noir, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_094,"Cowpea, black, soaked, boiled in different water* (without salt), with cooking liquid","Niébé, noir, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_028,"Cowpea, brown, not soaked, boiled* (without salt), drained","Niébé, brun, non trempé, bouilli* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_095,"Cowpea, brown, not soaked, boiled* (without salt), with cooking liquid","Niébé, brun, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_096,"Cowpea, brown, soaked, boiled in different water* (without salt), drained","Niébé, brun, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_097,"Cowpea, brown, soaked, boiled in different water* (without salt), with cooking liquid","Niébé, brun, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_101,"Cowpea, dehulled, not soaked, boiled* (without salt), drained","Niébé, décortiqué, non trempé, bouilli* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_102,"Cowpea, dehulled, not soaked, boiled* (without salt), with cooking liquid","Niébé, décortiqué, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_103,"Cowpea, dehulled, soaked, boiled in different water* (without salt), drained","Niébé, décortiqué, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_104,"Cowpea, dehulled, soaked, boiled in different water* (without salt), with cooking liquid","Niébé, décortiqué, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_007,"Cowpea, not soaked, boiled* (without salt), drained","Niébé, non trempé, bouilli* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_089,"Cowpea, not soaked, boiled* (without salt), with cooking liquid","Niébé, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_090,"Cowpea, soaked, boiled in different water* (without salt), drained","Niébé, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_091,"Cowpea, soaked, boiled in different water* (without salt), with cooking liquid","Niébé, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_029,"Cowpea, white, not soaked, boiled* (without salt), drained","Niébé, blanc, non trempé, bouilli* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_098,"Cowpea, white, not soaked, boiled* (without salt), with cooking liquid","Niébé, blanc, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_099,"Cowpea, white, soaked, boiled in different water* (without salt), drained","Niébé, blanc, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.67,uPulses (VUN005)
+03_100,"Cowpea, white, soaked, boiled in different water* (without salt), with cooking liquid","Niébé, blanc, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.42,uPulses (VUN006)
+03_113,"Ground bean, not soaked, boiled* (without salt), drained","Haricot de terre, non trempé, bouilli* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_114,"Ground bean, not soaked, boiled* (without salt), with cooking liquid","Haricot de terre, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_115,"Ground bean, soaked, boiled in different water* (without salt), drained","Haricot de terre, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_116,"Ground bean, soaked, boiled in different water* (without salt), with cooking liquid","Haricot de terre, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_109,"Jack bean, not soaked, boiled* (without salt), drained","Haricot-sabre, non trempé, bouilli* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_110,"Jack bean, not soaked, boiled* (without salt), with cooking liquid","Haricot-sabre, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_111,"Jack bean, soaked, boiled in different water* (without salt), drained","Haricot-sabre, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_112,"Jack bean, soaked, boiled in different water* (without salt), with cooking liquid","Haricot-sabre, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_031,"Lentil, not soaked, boiled* (without salt), drained","Lentille, non trempée, bouillie* (sans sel), égouttée",2.65,uPulses (LEC009)
+03_086,"Lentil, not soaked, boiled* (without salt), with cooking liquid","Lentille, non trempée, bouillie* (sans sel), avec liquide de cuisson",4.25,uPulses (LEC010)
+03_087,"Lentil, soaked, boiled in different water* (without salt), drained","Lentille, trempée, bouillie dans différentes eaux* (sans sel), égouttée",2.65,uPulses (LEC009)
+03_088,"Lentil, soaked, boiled in different water* (without salt), with cooking liquid","Lentille, trempée, bouillie dans différentes eaux* (sans sel), avec liquide de cuisson",4.25,uPulses (LEC010)
+03_117,"Lima bean, not soaked, boiled* (without salt), drained","Haricot de Lima, non trempé, bouilli* (sans sel), égoutté",2.5,uPulses (PHL002)
+03_118,"Lima bean, not soaked, boiled* (without salt), with cooking liquid","Haricot de Lima, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.33,uPulses (PHL003)
+03_119,"Lima bean, soaked, boiled in different water* (without salt), drained","Haricot de Lima, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.5,uPulses (PHL002)
+03_120,"Lima bean, soaked, boiled in different water* (without salt), with cooking liquid","Haricot de Lima, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.33,uPulses (PHL003)
+03_132,"Pigeon pea, brown, not soaked, boiled* (without salt), drained","Pois d’Angole, brun, non trempé, bouilli* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_133,"Pigeon pea, brown, not soaked, boiled* (without salt), with cooking liquid","Pois d’Angole, brun, non trempé, bouilli* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_134,"Pigeon pea, brown, soaked, boiled in different water* (without salt), drained","Pois d’Angole, brun, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_135,"Pigeon pea, brown, soaked, boiled in different water* (without salt), with cooking liquid","Pois d’Angole, brun, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_128,"Pigeon pea, cream, not soaked, boiled* (without salt), drained","Pois d’Angole, crème, non trempé, bouilli* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_129,"Pigeon pea, cream, not soaked, boiled* (without salt), with cooking liquid","Pois d’Angole, crème, non trempé, bouilli* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_130,"Pigeon pea, cream, soaked, boiled in different water* (without salt), drained","Pois d’Angole, crème, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_131,"Pigeon pea, cream, soaked, boiled in different water* (without salt), with cooking liquid","Pois d’Angole, crème, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_033,"Pigeon pea, not soaked, boiled* (without salt), drained","Pois d’Angole, non trempé, bouilli* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_121,"Pigeon pea, not soaked, boiled* (without salt), with cooking liquid","Pois d’Angole, non trempé, bouilli* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_122,"Pigeon pea, soaked, boiled in different water* (without salt), drained","Pois d’Angole, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_123,"Pigeon pea, soaked, boiled in different water* (without salt), with cooking liquid","Pois d’Angole, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_124,"Pigeon pea, white, not soaked, boiled* (without salt), drained","Pois d’Angole, blanc, non trempé, bouilli* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_125,"Pigeon pea, white, not soaked, boiled* (without salt), with cooking liquid","Pois d’Angole, blanc, non trempé, bouilli* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_126,"Pigeon pea, white, soaked, boiled in different water* (without salt), drained","Pois d’Angole, blanc, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.3,uPulses (CAC004)
+03_127,"Pigeon pea, white, soaked, boiled in different water* (without salt), with cooking liquid","Pois d’Angole, blanc, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",3.2,uPulses (CAC005)
+03_040,"Soya bean, combined varieties (Ghana), not soaked, boiled* (without salt), drained","Soja, mélange de variétés (Ghana), non trempé, bouilli* (sans sel), égoutté",2.43,"Bergström, 1994 (Soyabeans, dried; av.)"
+03_137,"Soya bean, combined varieties (Ghana), soaked, boiled in different water* (without salt), drained","Soja, mélange de variétés (Ghana), trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.43,"Bergström, 1994 (Soyabeans, dried; av.)"
+03_034,"Soya bean, not soaked, boiled* (without salt), drained","Soja, non trempé, bouilli* (sans sel), égoutté",2.43,"Bergström, 1994 (Soyabeans, dried; av.)"
+03_136,"Soya bean, soaked, boiled in different water* (without salt), drained","Soja, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.43,"Bergström, 1994 (Soyabeans, dried; av.)"
+03_105,"Sweet dattock, not soaked, boiled* (without salt), drained","Détar sucré, non trempé, bouilli* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_106,"Sweet dattock, not soaked, boiled* (without salt), with cooking liquid","Détar sucré, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_107,"Sweet dattock, soaked, boiled in different water* (without salt), drained","Détar sucré, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_108,"Sweet dattock, soaked, boiled in different water* (without salt), with cooking liquid","Détar sucré, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_138,"Velvet bean, not soaked, boiled* (without salt), drained","Haricot velouté, non trempé, bouilli* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_139,"Velvet bean, not soaked, boiled* (without salt), with cooking liquid","Haricot velouté, non trempé, bouilli* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+03_140,"Velvet bean, soaked, boiled in different water* (without salt), drained","Haricot velouté, trempé, bouilli dans différentes eaux* (sans sel), égoutté",2.61,uPulses (average of original YF for all pulses)
+03_141,"Velvet bean, soaked, boiled in different water* (without salt), with cooking liquid","Haricot velouté, trempé, bouilli dans différentes eaux* (sans sel), avec liquide de cuisson",4.13,uPulses (average of original YF for all pulses)
+Vegetables and their products/Légumes et produits dérivés,,,,
+04_086,"Amaranth, leaves, fresh, boiled* (as part of a recipe)","Amaranthe, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_024,"Amaranth, leaves, fresh, boiled* (without salt), drained","Amaranthe, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_087,"Baobab, leaves, fresh, boiled* (as part of a recipe)","Baobab, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_025,"Baobab, leaves, fresh, boiled* (without salt), drained","Baobab, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_088,"Bean, green, boiled* (as part of a recipe)","Haricot vert, bouilli* (ingrédient de recette)",0.93,"Bergström, 1994 (Beans, green, stewed)"
+04_026,"Bean, green, boiled* (without salt), drained","Haricot vert, bouilli* (sans sel), égoutté",0.91,"Bergström, 1994 (Beans, green, boiled)"
+04_090,"Cabbage, white, boiled* (as part of a recipe)","Chou, blanc, bouilli* (ingrédient de recette)",0.93,"Bognár, 2002 (White cabbage, stewed)"
+04_089,"Cabbage, white, boiled* (without salt), drained","Chou, blanc, bouilli* (sans sel), égoutté",0.98,"Bognár, 2002 (Cabbage, white/red, boiled)"
+04_091,"Carrot, boiled* (as part of a recipe)","Carotte, bouillie* (ingrédient de recette)",0.96,"Bognár, 2002 (Carrot, stewed)"
+04_007,"Carrot, boiled* (without salt), drained","Carotte, bouillie* (sans sel), égouttée",0.94,"Bognár, 2002 (Carrot, boiled)"
+04_092,"Cassava, leaves, fresh, boiled* (as part of a recipe)","Manioc, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_028,"Cassava, leaves, fresh, boiled* (without salt), drained","Manioc, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_097,"Cocoyam, leaves, fresh, boiled* (as part of a recipe)","Chou caraïbe, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_029,"Cocoyam, leaves, fresh, boiled* (without salt), drained","Chou caraïbe, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_098,"Cowpea, leaves, fresh, boiled* (as part of a recipe)","Niébé, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_030,"Cowpea, leaves, fresh, boiled* (without salt), drained","Niébé, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_102,"Eggplant, fruit, boiled* (as part of a recipe)","Aubergine, fruit, bouilli* (ingrédient de recette)",0.8,"Bognár, 2002 (Eggplant, stewed)"
+04_034,"Eggplant, fruit, boiled* (without salt), drained","Aubergine, fruit, bouilli* (sans sel), égoutté",0.93,"Bergström, 1994 (Aubergine, boiled)"
+04_105,"Eggplant, leaves, fresh, boiled* (as part of a recipe)","Aubergine, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_035,"Eggplant, leaves, fresh, boiled* (without salt), drained","Aubergine, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_106,"False sesame, leaves, fresh, boiled* (as part of a recipe)","Faux sésame, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_037,"False sesame, leaves, fresh, boiled* (without salt), drained","Faux sésame, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_132,"Green leafy vegetable, average, fresh, boiled* (without salt), drained","Légumes-feuilles verts, non spécifiés, frais, bouillis* (sans sel), égouttés",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_133,"Green leafy vegetable, average, fresh, boiled* (as part of a recipe)","Légumes-feuilles verts, non spécifiés, frais, bouillis* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_100,"Hibiscus cannabinus, leaves, fresh, boiled* (as part of a recipe)","Hibiscus cannabinus, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_099,"Hibiscus cannabinus, leaves, fresh, boiled* (without salt), drained","Hibiscus cannabinus, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_117,"Hibiscus, leaves, fresh, boiled* (as part of a recipe)","Oseille de Guinée, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_056,"Hibiscus, leaves, fresh, boiled* (without salt), drained","Oseille de Guinée, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_107,"Jute mallow (bush-okra), leaves, fresh, boiled* (as part of a recipe)","Corète potagère, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_039,"Jute mallow (bush-okra), leaves, fresh, boiled* (without salt), drained","Corète potagère, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_109,"Maize, seeds, fresh, boiled* (as part of a recipe)","Maïs, grains, frais, bouilli* (ingrédient de recette)",0.96,USDA Yield 928 (Boiled or steamed corn kernels)
+04_108,"Maize, seeds, fresh, boiled* (without salt), drained","Maïs, grains, frais, bouilli* (sans sel), égoutté",0.96,USDA Yield 928 (Boiled or steamed corn kernels)
+04_101,"Moringa (drumstick), leaves, fresh, boiled* (as part of a recipe)","Moringa (ben oléifère), feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_033,"Moringa (drumstick), leaves, fresh, boiled* (without salt), drained","Moringa (ben oléifère), feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_104,"Native eggplant, fruit, boiled* (as part of a recipe)","Aubergine indigène, fruit, bouilli* (ingrédient de recette)",0.8,"Bognár, 2002 (Eggplant, stewed)"
+04_103,"Native eggplant, fruit, boiled* (without salt), drained","Aubergine indigène, fruit, bouilli* (sans sel), égoutté",0.93,"Bergström, 1994 (Aubergine, boiled)"
+04_110,"Okra, leaves, fresh, boiled* (as part of a recipe)","Gombo, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_041,"Okra, leaves, fresh, boiled* (without salt), drained","Gombo, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_111,"Okra, fruit, fresh, boiled* (as part of a recipe)","Gombo, fruit, frais, bouilli* (ingrédient de recette)",1.0,"Own measurement (Okra, stewed)"
+04_042,"Okra, fruit, fresh, boiled* (without salt), drained","Gombo, fruit, frais, bouilli* (sans sel), égoutté",1.1,"Matthews and Garrison, 1975 (1555 okra, trimmed, whole, boiled or steamed)"
+04_112,"Onion, fresh, boiled* (as part of a recipe)","Oignon, frais, bouilli* (ingrédient de recette)",0.82,"Bergström, 1994 (Onions boiled; av.)"
+04_043,"Onion, fresh, boiled* (without salt), drained","Oignon, frais, bouilli* (sans sel), égoutté",0.82,"Bergström, 1994 (Onions boiled; av.)"
+04_114,"Pepper, sweet, green, fresh, boiled* (as part of a recipe)","Poivron vert, frais, bouilli* (ingrédient de recette)",0.87,"Bergström, 1994 (Pepper, boiled)"
+04_050,"Pepper, sweet, green, fresh, boiled* (without salt), drained","Poivron vert, frais, bouilli* (sans sel), égoutté",0.87,"Bergström, 1994 (Pepper, boiled)"
+04_113,"Pepper, sweet, red, fresh, boiled* (as part of a recipe)","Poivron rouge, frais, bouilli* (ingrédient de recette)",0.87,"Bergström, 1994 (Pepper, boiled)"
+04_048,"Pepper, sweet, red, fresh, boiled* (without salt), drained","Poivron rouge, frais, bouilli* (sans sel), égoutté",0.87,"Bergström, 1994 (Pepper, boiled)"
+04_116,"Pumpkin, leaves, fresh, boiled* (as part of a recipe)","Citrouille, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_054,"Pumpkin, leaves, fresh, boiled* (without salt), drained","Citrouille, feuilles, fraîches, bouillies* (sans sel), égouttées",1.01,"Matthews and Garrison, 1975 (2126 Pumpkin, leafy tips, steamed)"
+04_115,"Pumpkin, squash, light orange flesh, boiled* (as part of a recipe)","Courge, chair orange clair, bouillie* (ingrédient de recette)",1.13,"Bognár, 2002 (Pumpkin/squash, stewed)"
+04_052,"Pumpkin, squash, light orange flesh, boiled* (without salt), drained","Courge, chair orange clair, bouillie* (sans sel), égouttée",0.92,"Bognár, 2002 (Pumpkin/squash, boiled)"
+04_094,"Sicklepod, leaves, fresh, boiled* (as part of a recipe)","Casse fétide, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_093,"Sicklepod, leaves, fresh, boiled* (without salt), drained","Casse fétide, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_096,"Spider plant, leaves, fresh, boiled* (as part of a recipe)","Plante-araignée, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_095,"Spider plant, leaves, fresh, boiled* (without salt), drained","Plante-araignée, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_118,"Spinach, leaves, fresh, boiled* (as part of a recipe)","Épinard, feuilles, fraîches, bouillies* (ingrédient de recette)",0.84,"Bognár, 2002 (Spinach, stewed)"
+04_058,"Spinach, leaves, fresh, boiled* (without salt), drained","Épinard, feuilles, fraîches, bouillies* (sans sel), égouttées",0.95,"Bognár, 2002 (Spinach boiled)"
+04_121,"Sweet potato, leaves, fresh, boiled* (as part of a recipe)","Patate douce, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_060,"Sweet potato, leaves, fresh, boiled* (without salt), drained","Patate douce, feuilles, fraîches, bouillies* (sans sel), égouttées",0.96,"Matthews and Garrison, 1975 (2495 Sweet potatoes tops steamed for 15 minutes)"
+04_122,"Tamarind, leaves, fresh, boiled* (as part of a recipe)","Tamarin, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_061,"Tamarind, leaves, fresh, boiled* (without salt), drained","Tamarin, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_123,"Taro, leaves, fresh, boiled* (as part of a recipe)","Taro, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_063,"Taro, leaves, fresh, boiled* (without salt), drained","Taro, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_124,"Tomato, red, ripe, boiled* (as part of a recipe)","Tomate, rouge, mûre, bouillie* (ingrédient de recette)",0.78,"Bergström, 1994 (Tomatoes, boiled)"
+04_064,"Tomato, red, ripe, boiled* (without salt), drained","Tomate, rouge, mûre, bouillie* (sans sel), égouttée",0.78,"Bergström, 1994 (Tomatoes, boiled)"
+04_125,"Turnip, boiled* (as part of a recipe)","Navet, bouilli* (ingrédient de recette)",0.9,"Bergström, 1994 (Turnips, boiled)"
+04_069,"Turnip, boiled* (without salt), drained","Navet, bouilli* (sans sel), égoutté",0.9,"Bergström, 1994 (Turnips, boiled)"
+04_126,"Vernonia, leaves, bitter, fresh, boiled* (as part of a recipe)","Vernonie, feuilles, amères, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_070,"Vernonia, leaves, bitter, fresh, boiled* (without salt), drained","Vernonie, feuilles, amères, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_128,"Vernonia, leaves, sweet, fresh, boiled* (as part of a recipe)","Vernonie, feuilles, douces, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_127,"Vernonia, leaves, sweet, fresh, boiled* (without salt), drained","Vernonie, feuilles, douces, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_120,"Waterleaf, leaves, fresh, boiled* (as part of a recipe)","Feuille d’eau, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_119,"Waterleaf, leaves, fresh, boiled* (without salt), drained","Feuille d’eau, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+04_130,"Wild spinach, leaves, fresh, boiled* (as part of a recipe)","Épinard sauvage, feuilles, fraîches, bouillies* (ingrédient de recette)",0.94,"Bognár, 2002 (Leafy vegetables, stewed)"
+04_129,"Wild spinach, leaves, fresh, boiled* (without salt), drained","Épinard sauvage, feuilles, fraîches, bouillies* (sans sel), égouttées",0.98,"Bognár, 2002 (Leafy vegetables, boiled)"
+"Meat, poultry and their products/Viande, volaille et produits dérivés",,,,
+07_090,"Beef kidney, boiled* (without salt), drained","Rognon de bœuf, bouilli* (sans sel), égoutté",0.63,"Bergström, 1994 (Kidney beef, stewed) "
+07_091,"Beef kidney, grilled* (without salt or fat)","Rognon de bœuf, grillé* (sans sel ni graisse)",0.64,"Bergström, 1994 (Kidney beef, roasted) "
+07_020,"Beef kidney, stewed* (as part of a recipe)","Rognon de bœuf, mijoté* (ingrédient de recette)",0.63,"Bergström, 1994 (Kidney beef, stewed) "
+07_018,"Beef liver, boiled* (without salt), drained","Foie de bœuf, bouilli* (sans sel), égoutté",0.66,"Bergström, 1994 (Liver, beef, boiled) "
+07_088,"Beef liver, grilled* (without salt or fat)","Foie de bœuf, grillé* (sans sel ni graisse)",0.81,"Bergström, 1994 (Liver, beef, fried; av.) "
+07_089,"Beef liver, stewed* (as part of a recipe)","Foie de bœuf, mijoté* (ingrédient de recette)",0.75,"Bergström, 1994 (Liver, beef, stewed; av.) "
+07_015,"Beef meat, fatty, ca. 30% fat, boiled* (without salt), drained","Viande de bœuf, grasse, environ 30% de matière grasse, bouillie* (sans sel), égouttée",0.6,"Bergström, 1994 (Beef, small pieces, boiled, well done)"
+07_016,"Beef meat, fatty, ca. 30% fat, grilled* (without salt or fat)","Viande de bœuf, grasse, environ 30% de matière grasse, grillée* (sans sel ni graisse)",0.72,"Bognár, 2002 (Roast beef (Chuck, leg, shoulder, top round), medium, grill, broil, barbecue)"
+07_087,"Beef meat, fatty, ca. 30% fat, stewed* (as part of a recipe)","Viande de bœuf, grasse, environ 30% de matière grasse, mijotée* (ingrédient de recette)",0.71,"Bergström, 1994 (Beef, big pieces, braised, medium)"
+07_024,"Beef meat, ground, ca. 10% fat, grilled* (without salt or fat)","Viande de bœuf, hachée, environ 10% de matière grasse, grillée* (sans sel ni graisse)",0.72,"Bergström, 1994 (Beef, mince stewed)"
+07_134,"Beef meat, ground, ca. 10% fat, stewed* (as part of a recipe)","Viande de bœuf, hachée, environ 10% de matière grasse, mijotée* (ingrédient de recette)",0.72,"Bergström, 1994 (Beef, mince stewed)"
+07_010,"Beef meat, lean, ca. 5% fat, boiled* (without salt), drained","Viande de bœuf, maigre, environ 5% de matière grasse, bouillie* (sans sel), égouttée",0.6,"Bergström, 1994 (Beef, small pieces, boiled, well done)"
+07_011,"Beef meat, lean, ca. 5% fat, grilled* (without salt or fat)","Viande de bœuf, maigre, environ 5% de matière grasse, grillée* (sans sel ni graisse)",0.72,"Bognár, 2002 (Roast beef (Chuck, leg, shoulder, top round), medium, grill, broil, barbecue)"
+07_085,"Beef meat, lean, ca. 5% fat, stewed* (as part of a recipe)","Viande de bœuf, maigre, environ 5% de matière grasse, mijotée* (ingrédient de recette)",0.71,"Bergström, 1994 (Beef, big pieces, braised, medium)"
+07_012,"Beef meat, moderately fat, ca. 20% fat, boiled* (without salt), drained","Viande de bœuf, teneur modérée en matière grasse (env. 20%), bouillie* (sans sel), égouttée",0.6,"Bergström, 1994 (Beef, small pieces, boiled, well done)"
+07_013,"Beef meat, moderately fat, ca. 20% fat, grilled* (without salt or fat)","Viande de bœuf, teneur modérée en matière grasse (env. 20%), grillée* (sans sel ni graisse)",0.72,"Bognár, 2002 (Roast beef (Chuck, leg, shoulder, top round), medium, grill, broil, barbecue)"
+07_086,"Beef meat, moderately fat, ca. 20% fat, stewed* (as part of a recipe)","Viande de bœuf, teneur modérée en matière grasse (env. 20%), mijotée* (ingrédient de recette)",0.71,"Bergström, 1994 (Beef, big pieces, braised, medium)"
+07_022,"Beef tripe, boiled* (without salt), drained","Tripes de bœuf, bouillies* (sans sel), égouttées",0.71,"Bergström, 1994 (Tripes, beef, boiled) "
+07_133,"Beef tripe, grilled* (without salt or fat)","Tripes de bœuf, grillées* (sans sel ni graisse)",0.71,"Bergström, 1994 (Tripes, beef, boiled) "
+07_092,"Beef tripe, stewed* (as part of a recipe)","Tripes de bœuf, mijotées* (ingrédient de recette)",0.71,"Bergström, 1994 (Tripes, beef, boiled) "
+07_093,"Camel meat, boiled* (without salt), drained","Viande de chameau, bouillie* (sans sel), égouttée",0.6,"Bergström, 1994 (Beef, small pieces, boiled, well done)"
+07_094,"Camel meat, grilled* (without salt or fat)","Viande de chameau, grillée* (sans sel ni graisse)",0.72,"Bognár, 2002 (Roast beef (Chuck, leg, shoulder, top round), medium, grill, broil, barbecue)"
+07_095,"Camel meat, stewed* (as part of a recipe)","Viande de chameau, mijotée* (ingrédient de recette)",0.71,"Bergström, 1994 (Beef, big pieces, braised, medium)"
+07_106,"Chicken giblets, boiled* (without salt), drained","Poulet, abats, bouillis* (sans sel), égouttés",0.68,"Bergström, 1994 (Chicken, parts, boiled) "
+07_107,"Chicken giblets, grilled* (without salt or fat)","Poulet, abats, grillés* (sans sel ni graisse)",0.69,"Bergström, 1994 (Chicken, parts, roasted) "
+07_040,"Chicken giblets, stewed* (as part of a recipe)","Poulet, abats, mijotés* (ingrédient de recette)",0.69,"Bergström, 1994 (Chicken, parts, braised) "
+07_108,"Chicken liver, boiled* (without salt), drained","Foie de poulet, bouilli* (sans sel), égoutté",0.66,"Bergström, 1994 (Liver, beef, boiled) "
+07_109,"Chicken liver, grilled* (without salt or fat)","Foie de poulet, grillé* (sans sel ni graisse)",0.81,"Bergström, 1994 (Liver, beef, fried) "
+07_042,"Chicken liver, stewed* (as part of a recipe)","Foie de poulet, mijoté* (ingrédient de recette)",0.75,"Bergström, 1994 (Liver, beef, stewed) "
+07_031,"Chicken, dark meat with skin, boiled* (without salt), drained","Poulet, chair brune avec la peau, bouillie* (sans sel), égoutté",0.76,"Bergström, 1994 (Chicken, boiled; av.)"
+07_032,"Chicken, dark meat with skin, grilled* (without salt or fat)","Poulet, chair brune avec la peau, grillée* (sans sel ni graisse)",0.78,"Bergström, 1994 (Chicken grilled)"
+07_103,"Chicken, dark meat with skin, stewed* (as part of a recipe)","Poulet, chair brune avec la peau, mijotée* (ingrédient de recette)",0.7,"Bergström, 1994 (Chicken, braised; av.)"
+07_028,"Chicken, dark meat without skin, boiled* (without salt), drained","Poulet, chair brune sans la peau, bouillie* (sans sel), égoutté",0.76,"Bergström, 1994 (Chicken, boiled; av.)"
+07_029,"Chicken, dark meat without skin, grilled* (without salt or fat)","Poulet, chair brune sans la peau, grillée* (sans sel ni graisse)",0.78,"Bergström, 1994 (Chicken grilled)"
+07_102,"Chicken, dark meat without skin, stewed* (as part of a recipe)","Poulet, chair brune sans la peau, mijotée* (ingrédient de recette)",0.7,"Bergström, 1994 (Chicken, braised; av.)"
+07_037,"Chicken, light meat with skin, boiled* (without salt), drained","Poulet, blanc avec la peau, bouilli* (sans sel), égoutté",0.76,"Bergström, 1994 (Chicken, boiled; av.)"
+07_038,"Chicken, light meat with skin, grilled* (without salt or fat)","Poulet, blanc avec la peau, grillé* (sans sel ni graisse)",0.78,"Bergström, 1994 (Chicken grilled)"
+07_104,"Chicken, light meat with skin, stewed* (as part of a recipe)","Poulet, blanc avec la peau, mijoté* (ingrédient de recette)",0.7,"Bergström, 1994 (Chicken, braised; av.)"
+07_034,"Chicken, light meat without skin, boiled* (without salt), drained","Poulet, blanc sans la peau, bouilli* (sans sel), égoutté",0.76,"Bergström, 1994 (Chicken, boiled; av.)"
+07_035,"Chicken, light meat without skin, grilled* (without salt or fat)","Poulet, blanc sans la peau, grillé* (sans sel ni graisse)",0.78,"Bergström, 1994 (Chicken grilled)"
+07_105,"Chicken, light meat without skin, stewed* (as part of a recipe)","Poulet, blanc sans la peau, mijoté* (ingrédient de recette)",0.7,"Bergström, 1994 (Chicken, braised; av.)"
+07_045,"Crocodile meat, boiled* (without salt), drained","Viande de crocodile, bouillie* (sans sel), égouttée",0.58,"SA10 (Calc. from Crocodile, raw and Crocodile, cooked)"
+07_110,"Crocodile meat, grilled* (without salt or fat)","Viande de crocodile, grillée* (sans sel ni graisse)",0.58,"SA10 (Calc. from Crocodile, raw and Crocodile, cooked)"
+07_111,"Crocodile meat, stewed* (as part of a recipe)","Viande de crocodile, mijotée* (ingrédient de recette)",0.58,"SA10 (Calc. from Crocodile, raw and Crocodile, cooked)"
+07_113,"Goat meat, lean, boiled* (without salt), drained","Viande de chèvre, maigre, bouillie* (sans sel), égouttée",0.67,"Bergström, 1994 (Lamb, brikset, boiled) "
+07_114,"Goat meat, lean, grilled* (without salt or fat)","Viande de chèvre, maigre, grillée* (sans sel ni graisse)",0.69,"UK6 (Lamb, loin chops, grilled)"
+07_115,"Goat meat, lean, stewed* (as part of a recipe)","Viande de chèvre, maigre, mijotée* (ingrédient de recette)",0.57,"Bergström, 1994 (Lamb, big pieces, meat only, braised) "
+07_047,"Goat meat, moderately fat, ca. 10% fat, boiled* (without salt), drained","Viande de chèvre, teneur modérée en matière grasse (env. 10%), bouillie* (sans sel), égouttée",0.67,"Bergström, 1994 (Lamb, brikset, boiled) "
+07_048,"Goat meat, moderately fat, ca. 10% fat, grilled* (without salt or fat)","Viande de chèvre, teneur modérée en matière grasse (env. 10%), grillée* (sans sel ni graisse)",0.69,"UK6 (Lamb, loin chops, grilled)"
+07_112,"Goat meat, moderately fat, ca. 10% fat, stewed* (as part of a recipe)","Viande de chèvre, teneur modérée en matière grasse (env. 10%), mijotée* (ingrédient de recette)",0.57,"Bergström, 1994 (Lamb, big pieces, meat only, braised) "
+07_116,"Guinea fowl meat, boiled* (without salt), drained","Viande de pintade, bouillie* (sans sel), égouttée",0.76,"Bergström, 1994 (Chicken, boiled; av.)"
+07_117,"Guinea fowl meat, grilled* (without salt or fat)","Viande de pintade, grillée* (sans sel ni graisse)",0.78,"Bergström, 1994 (Chicken grilled)"
+07_118,"Guinea fowl meat, stewed* (as part of a recipe)","Viande de pintade, mijotée* (ingrédient de recette)",0.7,"Bergström, 1994 (Chicken, braised; av.)"
+07_129,"Lamb brain, boiled* (without salt), drained","Cervelle d’agneau, bouillie* (sans sel), égouttée",0.8,"US23(Calc. from 17185 Lamb, brain raw and 17186 Lamb,brain, simmered)"
+07_130,"Lamb brain, grilled* (without salt or fat)","Cervelle d’agneau, grillée* (sans sel ni graisse)",0.8,"US23(Calc. from 17185 Lamb, brain raw and 17186 Lamb,brain, simmered)"
+07_052,"Lamb brain, stewed* (as part of a recipe)","Cervelle d’agneau, mijotée* (ingrédient de recette)",0.8,"US23(Calc. from 17185 Lamb, brain raw and 17186 Lamb,brain, simmered)"
+07_054,"Lamb liver, boiled* (without salt), drained","Foie d’agneau, bouilli* (sans sel), égoutté",0.66,"Bergström, 1994 (Liver, beef, boiled) "
+07_131,"Lamb liver, grilled* (without salt or fat)","Foie d’agneau, grillé* (sans sel ni graisse)",0.81,"Bergström, 1994 (Liver, beef, fried; av.) "
+07_132,"Lamb liver, stewed* (as part of a recipe)","Foie d’agneau, mijoté* (ingrédient de recette)",0.75,"Bergström, 1994 (Liver, beef, stewed; av.) "
+07_126,"Lamb/mutton meat, lean, ca. 10% fat, boiled* (without salt), drained","Viande d’agneau/mouton, maigre, environ 10% de matière grasse, bouillie* (sans sel), égouttée",0.67,"Bergström, 1994 (Lamb, brikset, boiled) "
+07_127,"Lamb/mutton meat, lean, ca. 10% fat, grilled* (without salt or fat)","Viande d’agneau/mouton, maigre, environ 10% de matière grasse, grillée* (sans sel ni graisse)",0.69,"UK6 (Lamb, loin chops, grilled)"
+07_128,"Lamb/mutton meat, lean, ca. 10% fat, stewed* (as part of a recipe)","Viande d’agneau/mouton, maigre, environ 10% de matière grasse, mijotée* (ingrédient de recette)",0.63,"Bergström, 1994 (Lamb, big pieces with bones, braised)"
+07_049,"Lamb/mutton meat, moderately fat, ca. 20% fat, boiled* (without salt), drained","Viande d’agneau/mouton, teneur modérée en matière grasse (env. 20%), bouillie* (sans sel), égouttée",0.67,"Bergström, 1994 (Lamb, brikset, boiled) "
+07_050,"Lamb/mutton meat, moderately fat, ca. 20% fat, grilled* (without salt or fat)","Viande d’agneau/mouton, teneur modérée en matière grasse (env. 20%), grillée* (sans sel ni graisse)",0.69,"UK6 (Lamb, loin chops, grilled)"
+07_125,"Lamb/mutton meat, moderately fat, ca. 20% fat, stewed* (as part of a recipe)","Viande d’agneau/mouton, teneur modérée en matière grasse (env. 20%), mijotée* (ingrédient de recette)",0.63,"Bergström, 1994 (Lamb, big pieces with bones, braised)"
+07_099,"Ostrich meat, boiled* (without salt), drained","Viande d’autruche, bouillie* (sans sel), égouttée",0.76,"Bergström, 1994 (Chicken, boiled; av.)"
+07_100,"Ostrich meat, grilled* (without salt or fat)","Viande d’autruche, grillée* (sans sel ni graisse)",0.78,"Bergström, 1994 (Chicken grilled)"
+07_101,"Ostrich meat, stewed* (as part of a recipe)","Viande d’autruche, mijotée* (ingrédient de recette)",0.7,"Bergström, 1994 (Chicken, braised; av.)"
+07_059,"Pork meat, fatty, ca. 40% fat, boiled* (without salt), drained","Viande de porc, grasse, environ 40% de matière grasse, bouillie* (sans sel), égouttée",0.65,"Bergström, 1994 (Pork, pig pieces, boiled, steamed)"
+07_060,"Pork meat, fatty, ca. 40% fat, grilled* (without salt or fat)","Viande de porc, grasse, environ 40% de matière grasse, grillée* (sans sel ni graisse)",0.7,"Bergström, 1994 (Pork, grilled, av.)"
+07_123,"Pork meat, fatty, ca. 40% fat, stewed* (as part of a recipe)","Viande de porc, grasse, environ 40% de matière grasse, mijotée* (ingrédient de recette)",0.65,"Bergström, 1994 (Pork, fat, small pieces, braised)"
+07_119,"Pork meat, lean, ca. 10% fat, boiled* (without salt), drained","Viande de porc, maigre, environ 10% de matière grasse, bouillie* (sans sel), égouttée",0.65,"Bergström, 1994 (Pork, big pieces, boiled, steamed)"
+07_120,"Pork meat, lean, ca. 10% fat, grilled* (without salt or fat)","Viande de porc, maigre, environ 10% de matière grasse, grillée* (sans sel ni graisse)",0.7,"Bergström, 1994 (Pork, grilled, av.)"
+07_121,"Pork meat, lean, ca. 10% fat, stewed* (as part of a recipe)","Viande de porc, maigre, environ 10% de matière grasse, mijotée* (ingrédient de recette)",0.75,"Bergström, 1994 (Pork, fillet, steak, braised)"
+07_057,"Pork meat, moderately fat, ca. 20% fat, boiled* (without salt), drained","Viande de porc, teneur modérée en matière grasse (env. 20%), bouillie* (sans sel), égouttée",0.65,"Bergström, 1994 (Pork, pig pieces, boiled, steamed)"
+07_058,"Pork meat, moderately fat, ca. 20% fat, grilled* (without salt or fat)","Viande de porc, teneur modérée en matière grasse (env. 20%), grillée* (sans sel ni graisse)",0.7,"Bergström, 1994 (Pork, grilled, av.)"
+07_122,"Pork meat, moderately fat, ca. 20% fat, stewed* (as part of a recipe)","Viande de porc, teneur modérée en matière grasse (env. 20%), mijotée* (ingrédient de recette)",0.65,"Bergström, 1994 (Pork, fat, small pieces, braised)"
+07_124,"Rabbit meat, boiled* (without salt), drained","Viande de lapin, bouillie* (sans sel), égouttée",0.69,"Bergström, 1994 (Rabbit, stewed)"
+07_062,"Rabbit meat, grilled* (without salt or fat)","Viande de lapin, grillée* (sans sel ni graisse)",0.69,"UK6 (Lamb, loin chops, grilled)"
+07_061,"Rabbit meat, stewed* (as part of a recipe)","Viande de lapin, mijotée* (ingrédient de recette)",0.69,"Bergström, 1994 (Rabbit, stewed)"
+07_096,"Springbok meat, boiled* (without salt), drained","Viande de springbok, bouillie* (sans sel), égouttée",0.6,"Bergström, 1994 (Beef, small pieces, boiled, well done)"
+07_097,"Springbok meat, grilled* (without salt or fat)","Viande de springbok, grillée* (sans sel ni graisse)",0.72,"Bognár, 2002 (Roast beef (Chuck, leg, shoulder, top round), medium, grill, broil, barbecue)"
+07_098,"Springbok meat, stewed* (as part of a recipe)","Viande de springbok, mijotée* (ingrédient de recette)",0.71,"Bergström, 1994 (Beef, big pieces, braised, medium)"
+Eggs and their products/Œufs et produits dérivés,,,,
+08_002,"Egg, chicken, boiled* (without salt)","Œuf, poule, bouilli* (sans sel)",1.0,"Bergström, 1994 (Egg, with shell, boiled)"
+08_010,"Egg, chicken, local breed, boiled* (without salt)","Œuf, poule, race locale, bouilli* (sans sel)",1.0,"Bergström, 1994 (Egg, with shell, boiled)"
+08_014,"Egg, duck, boiled* (without salt)","Œuf, canne, bouilli* (sans sel)",1.0,"Bergström, 1994 (Egg, with shell, boiled)"
+08_013,"Egg, guinea fowl, boiled* (without salt)","Œuf, pintade, bouilli* (sans sel)",1.0,"Bergström, 1994 (Egg, with shell, boiled)"
+08_011,"Egg, quail, boiled* (without salt)","Œuf, caille, bouilli* (sans sel)",1.0,"Bergström, 1994 (Egg, with shell, boiled)"
+08_012,"Egg, turkey, boiled* (without salt)","Œuf, dinde, bouilli* (sans sel)",1.0,"Bergström, 1994 (Egg, with shell, boiled)"
+Fish and its products/Poisson et produits dérivés,,,,
+09_061,"African carp, fillet, boiled* (as part of a recipe)","Carpe d’Afrique, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_009,"African carp, fillet, grilled* (without salt or fat)","Carpe d’Afrique, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_008,"African carp, fillet, steamed* (without salt)","Carpe d’Afrique, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_062,"Anchovy, fillet, boiled* (as part of a recipe)","Anchois, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_011,"Anchovy, fillet, grilled* (without salt or fat)","Anchois, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_010,"Anchovy, fillet, steamed* (without salt)","Anchois, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_068,"Atlantic cod (Northeast Atlantic), fillet, boiled* (as part of a recipe)","Morue de l’Atlantique Nord-Est, filet, bouilli* (ingrédient de recette)",0.82,uFish (091110)
+09_067,"Atlantic cod (Northeast Atlantic), fillet, grilled* (without salt or fat)","Morue de l’Atlantique Nord-Est, filet, grillé* (sans sel ni graisse)",0.75,uFish (091232)
+09_066,"Atlantic cod (Northeast Atlantic), fillet, steamed* (without salt)","Morue de l’Atlantique Nord-Est, filet, cuit à la vapeur* (sans sel)",0.82,uFish (091110)
+09_072,"Atlantic horse mackerel, wild, fillet without skin, boiled* (as part of a recipe)","Chinchard atlantique, sauvage, filet sans peau, bouilli* (ingrédient de recette)",0.7,uFish (091125)
+09_071,"Atlantic horse mackerel, wild, fillet without skin, grilled* (without salt or fat)","Chinchard atlantique, sauvage, filet sans peau, grillé* (sans sel ni graisse)",0.8,uFish (091247)
+09_070,"Atlantic horse mackerel, wild, fillet without skin, steamed* (without salt)","Chinchard atlantique, sauvage, filet sans peau, cuit à la vapeur* (sans sel)",0.7,uFish (091125)
+09_063,"Barracuda, fillet, boiled* (as part of a recipe)","Barracuda, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_014,"Barracuda, fillet, grilled* (without salt or fat)","Barracuda, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_013,"Barracuda, fillet, steamed* (without salt)","Barracuda, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_064,"Bayad, fillet, boiled* (as part of a recipe)","Bayad, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_017,"Bayad, fillet, grilled* (without salt or fat)","Bayad, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_016,"Bayad, fillet, steamed* (without salt)","Bayad, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_065,"Carp, fillet, boiled* (as part of a recipe)","Carpe, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_023,"Carp, fillet, grilled* (without salt or fat)","Carpe, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_022,"Carp, fillet, steamed* (without salt)","Carpe, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_108,"Catfish, fillet, boiled* (as part of a recipe)","Poisson-chat, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_020,"Catfish, fillet, grilled* (without salt or fat)","Poisson-chat, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_019,"Catfish, fillet, steamed* (without salt)","Poisson-chat, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_098,"Crab, flesh (body and claw), boiled* (as part of a recipe)","Crabe, chair (corps et pinces), bouilli* (ingrédient de recette)",0.87,uFish (092051)
+09_097,"Crab, flesh (body and claw), grilled* (without salt or fat)","Crabe, chair (corps et pinces), grillé* (sans sel ni graisse)",0.86,uFish (092141)
+09_096,"Crab, flesh (body and claw), steamed* (without salt)","Crabe, chair (corps et pinces), cuit à la vapeur* (sans sel)",0.87,uFish (092051)
+09_069,"Mackerel, fillet, boiled* (as part of a recipe)","Maquereau, filet, bouilli* (ingrédient de recette)",0.7,uFish (091125)
+09_025,"Mackerel, fillet, grilled* (without salt or fat)","Maquereau, filet, grillé* (sans sel ni graisse)",0.8,uFish (091247)
+09_024,"Mackerel, fillet, steamed* (without salt)","Maquereau, filet, cuit à la vapeur* (sans sel)",0.7,uFish (091125)
+09_075,"Mahi mahi, fillet, boiled* (as part of a recipe)","Mahi mahi, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_074,"Mahi mahi, fillet, grilled* (without salt or fat)","Mahi mahi, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_073,"Mahi mahi, fillet, steamed* (without salt)","Mahi mahi, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_078,"Mola carplet, small whole fish, viscera, fins and scales removed, boiled* (as part of a recipe)","Mola carplet, petit poisson entier, vidé et écaillé, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_077,"Mola carplet, small whole fish, viscera, fins and scales removed, grilled* (without salt or fat)","Mola carplet, petit poisson entier, vidé et écaillé, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_076,"Mola carplet, small whole fish, viscera, fins and scales removed, steamed* (without salt)","Mola carplet, petit poisson entier, vidé et écaillé, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_079,"Mormyrid, fillet, boiled* (as part of a recipe)","Mormiridé, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_028,"Mormyrid, fillet, grilled* (without salt or fat)","Mormiridé, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_027,"Mormyrid, fillet, steamed* (without salt)","Mormiridé, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_085,"Mullet, fillet, boiled* (as part of a recipe)","Mulet, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_084,"Mullet, fillet, grilled* (without salt or fat)","Mulet, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_083,"Mullet, fillet, steamed* (without salt)","Mulet, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_082,"North African catfish, fillet, boiled* (as part of a recipe)","Poisson-chat d’Afrique du Nord, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_081,"North African catfish, fillet, grilled* (without salt or fat)","Poisson-chat d’Afrique du Nord, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_080,"North African catfish, fillet, steamed* (without salt)","Poisson-chat d’Afrique du Nord, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_086,"Perch, Nile, fillet, boiled* (as part of a recipe)","Perche du Nil, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_034,"Perch, Nile, fillet, grilled* (without salt or fat)","Perche du Nil, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_033,"Perch, Nile, fillet, steamed* (without salt)","Perche du Nil, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_087,"Sardine, fillet, boiled* (as part of a recipe)","Sardine, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_036,"Sardine, fillet, grilled* (without salt or fat)","Sardine, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_035,"Sardine, fillet, steamed* (without salt)","Sardine, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_101,"Sea snail/whelk, boiled* (as part of a recipe)","Escargot de mer/bulot, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_100,"Sea snail/whelk, grilled* (without salt or fat)","Escargot de mer/bulot, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_099,"Sea snail/whelk, steamed* (without salt)","Escargot de mer/bulot, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_088,"Shiny-nose, fillet, boiled* (as part of a recipe)","Capitaine de mer, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_040,"Shiny-nose, fillet, grilled* (without salt or fat)","Capitaine de mer, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_039,"Shiny-nose, fillet, steamed* (without salt)","Capitaine de mer, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_104,"Shrimp, palaemonid, flesh, boiled* (as part of a recipe)","Crevette, palaemonidae, chair, bouillie* (ingrédient de recette)",0.83,uFish (092042)
+09_103,"Shrimp, palaemonid, flesh, grilled* (without salt or fat)","Crevette, palaemonidae, chair, grillée* (sans sel ni graisse)",0.86,uFish (092118)
+09_102,"Shrimp, palaemonid, flesh, steamed* (without salt)","Crevette, palaemonidae, chair, cuite à la vapeur* (sans sel)",0.83,uFish (092042)
+09_107,"Shrimp, penaeid, flesh, boiled* (as part of a recipe)","Crevette, penaeidae, chair, bouillie* (ingrédient de recette)",0.83,uFish (092103)
+09_106,"Shrimp, penaeid, flesh, grilled* (without salt or fat)","Crevette, penaeidae, chair, grillée* (sans sel ni graisse)",0.86,uFish (092141)
+09_105,"Shrimp, penaeid, flesh, steamed* (without salt)","Crevette, penaeidae, chair, cuite à la vapeur* (sans sel)",0.83,uFish (092065)
+09_089,"Tilapia, fillet, boiled* (as part of a recipe)","Tilapia, filet, bouilli* (ingrédient de recette)",0.87,uFish (091128)
+09_043,"Tilapia, fillet, grilled* (without salt or fat)","Tilapia, filet, grillé* (sans sel ni graisse)",0.79,uFish (091189)
+09_042,"Tilapia, fillet, steamed* (without salt)","Tilapia, filet, cuit à la vapeur* (sans sel)",0.87,uFish (091067)
+09_092,"Tuna, fillet, boiled* (as part of a recipe)","Thon, filet, bouilli* (ingrédient de recette)",0.8,"Bergström, 1994 (Tuna, boiled)"
+09_091,"Tuna, fillet, grilled* (without salt or fat)","Thon, filet, grillé* (sans sel ni graisse)",0.74,"Bergström, 1994 (Tuna, baked in oven)"
+09_090,"Tuna, fillet, steamed* (without salt)","Thon, filet, cuit à la vapeur* (sans sel)",0.8,"Bergström, 1994 (Tuna, boiled)"
+09_095,"Venus clams, flesh, boiled* (as part of a recipe)","Palourde vénus, chair, bouillie* (ingrédient de recette)",0.63,uFish (093060)
+09_094,"Venus clams, flesh, steamed* (without salt)","Palourde vénus, chair, cuite à la vapeur* (sans sel)",0.63,uFish (093060)
+09_093,"White grouper, fillet, boiled* (as part of a recipe)","Mérou blanc, filet, bouilli* (ingrédient de recette)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"
+09_047,"White grouper, fillet, grilled* (without salt or fat)","Mérou blanc, filet, grillé* (sans sel ni graisse)",0.69,"Bergström, 1994 (Fish, grilled, average)"
+09_046,"White grouper, fillet, steamed* (without salt)","Mérou blanc, filet, cuit à la vapeur* (sans sel)",0.83,"uFish (own estimation, av. boiled/poached/steamed fish filet)"

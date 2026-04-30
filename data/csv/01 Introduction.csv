@@ -1,0 +1,38 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3
+,FAO/INFOODS Food Composition Table for Western Africa (2019) / Table de composition alimentaire FAO/INFOODS pour l’Afrique de l’Ouest (2019),,
+,,,
+,"Anna Vincent, Fernanda Grande, Ella Compaoré, George Amponsah Annor, Paulina S. Addy, Lilian Chinelo Aburime, Djoufouna Ahmed, Achu Mercy Bih Loh, Sergio Dahdouh Cabia, Nina Deflache, Fatoumata Mariam Dembélé, Belembaongo Dieudonné, Oboulbiga B. Edwige, Henrietta N. Ene-Obong, Nadia Fanou Fogny, Morné Ferreira, Julie Omaghomi Jemide, Pascal Christiant Kouebou, Carmen Muller, Sarah Nájera Espinosa, Fatimata Ouattara, Doris Rittenschober, Hettie Schönfeldt, Barbara Stadlmayr, Maricia van Deventer, Abdou Razikou Yiagnigni, U. Ruth Charrondière",,
+,,,
+,The User Guide for WAFCT 2019 is available at: http://www.fao.org/infoods/infoods/tables-and-databases/faoinfoods-databases/en/,,
+,Le Guide d’utilisation de la TCAAO 2019 est disponible à l'adresse : http://www.fao.org/infoods/infoods/tables-et-bases-de-donnees/bases-de-donnees-faoinfoods-sur-la-composition-des-aliments/fr/,,
+,,,
+,Structure of WAFCT 2019 Excel datasheets / Structure des feuilles de données Excel de la TCAAO 2019:,,
+,,,
+,Datasheet / Feuille de données,Description in English,Description en français
+,01 Introduction,"Gives an introduction to the tables, including information on copyright and disclaimer.","Présentation des tableaux, incluant des informations sur les droits d‘auteur et une clause de non-responsabilité."
+,02 Components,"Gives an overview of all components, listing INFOODS tagnames, descriptions, recommended units, maximal decimal places and significant digits, in English and French.","Offre un aperçu de tous les composants, avec leurs identifiants INFOODS, descriptions, unités recommandées, nombre maximal de décimales et chiffres significatifs."
+,03 NV_sum_39 (per 100 g EP),Condensed food composition table without statistics: Presents compiled component values per 100 g EP for all foods for 39 components – without statistics or documentation for data taken from outside Africa.,Présente les valeurs des nutriments compilées pour 100 g de PC pour tous les aliments et pour 39 composants - sans information statistique ni documentation pour les données extra-africaines.
+,04 NV_stat_39 (per 100 g EP),"Condensed food composition table with statistics: Presents compiled component values per 100 g EP for all foods and 39 components – with statistics and documentation for data taken from outside Africa.
+NOTE: This table is included in both the User Guide and the Excel Datasheets. However, due to space considerations, the version included in the User Guide does not include the statistic median.","Présente les valeurs des nutriments compilées pour 100 g de PC pour tous les aliments et 39 composants - avec information statistique et documentation pour les données extra-africaines. NOTE: Ce tableau figure à la fois dans le Guide d’utilisation et dans les Feuilles de données Excel. Toutefois, pour des raisons de place, la version incluse dans le Guide d’utilisation (c-à-d. dans le présent document) n’inclut pas la statistique médiane. 
+"
+,05 NV_sum_57 (per 100 g EP),Full food composition table without statistics: Presents compiled component values per 100 g EP for all foods and 57 components – without statistics or documentation for data taken from outside Africa.,Présente les valeurs des nutriments compilées pour 100 g de PC pour tous les aliments et 57 composants - sans statistiques ni documentation pour les données extra-africaines.
+,06 NV_stat_57 (per 100 g EP),Full food composition table with statistics: Presents compiled component values per 100 g EP for all foods and 57 components– with statistics and documentation for data taken from outside Africa.,"Présente les valeurs des nutriments compilées pour 100 g de PC, pour tous les aliments et 57 composants - avec statistiques et documentation concernant les données extra-africaines."
+,"07 Yield factors, sing_ing","Yield factors used in single ingredient cooked foods, including source(s) for each food.","Facteurs de rendement utilisés pour les aliments cuits à un seul ingrédient, avec les sources pour chaque aliment."
+,08 Retention factors,Retention factors used in calculating single ingredient cooked foods and mixed dishes in English and French.,"Facteurs de rétention utilisés pour le calcul des aliments cuits à un seul ingrédient et des plats composés, en anglais et en français."
+,09 Mixed dishes,"Recipes of mixed dishes, including recipe description and yield factors, in English and French.","Recettes de plats composés, avec description de la recette et facteurs de rendement, en anglais et en français."
+,10 FoodEx2 codes,"List of food names, food codes and the corresponding FoodEx2 code.","Liste des noms d’aliments, des codes d’aliments et du code FoodEx2 correspondant."
+,11 2012 vs 2019 names and codes,Comparison of names and food codes between the 2012 and 2019 editions of WAFCT.,Comparaison des noms et des codes d´aliments des éditions 2012 et 2019 de la TCAAO.
+,12 Data sources with BiblioID,"List of publications and sources used for all data compiled, ordered by corresponding BiblioID.","Liste des publications et des sources utilisées pour toutes les données compilées, dans l’ordre de l’identifiant BiblioID correspondant."
+,,,
+,"Required citation/ Citer comme suit:
+Vincent, A., Grande, F., Compaoré, E., Amponsah Annor, G., Addy, P.A., Aburime, L.C., Ahmed, D., Bih Loh, A.M., Dahdouh Cabia, S., Deflache, N., Dembélé, F.M., Dieudonné, B., Edwige, O.B., Ene-Obong, H.N., Fanou Fogny, N., Ferreira, M., Omaghomi Jemide, J., Kouebou, P.C., Muller, C., Nájera Espinosa, S., Ouattara, F., Rittenschober, D., Schönfeldt, H., Stadlmayr, B., van Deventer, M., Razikou Yiagnigni, A. & Charrondière, U.R. 2020. FAO/INFOODS Food Composition Table for Western Africa (2019) User Guide & Condensed Food Composition Table / Table de composition des aliments FAO/INFOODS pour l’Afrique de l’Ouest (2019) Guide d’utilisation & table de composition des aliments condensée. Rome, FAO.",,
+,"The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned. The views expressed in this information product are those of the author(s) and do not necessarily reflect the views or policies of FAO.
+
+FAO encourages the use, reproduction and dissemination of material in this information product. Except where otherwise indicated, material may be copied, downloaded and printed for private study, research and teaching purposes, or for use in non-commercial products or services, provided that appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO’s endorsement of users’ views, products or services is not implied in any way.
+
+All requests for translation and adaptation rights, and for resale and other commercial use rights should be addressed to www.fao.org/contact-us/licence-request or to copyright@fao.org.
+
+FAO information products are available on the FAO website (www.fao.org/publications) and can be purchased through publications-sales@fao.org
+
+© FAO, 2020
+",,

@@ -1,0 +1,163 @@
+[
+  {
+    "portion": "100g",
+    "code": "05_055",
+    "food_name_english": "African black plum/chocolate berry, ripe, raw",
+    "food_name_french": "Prune noire africaine, mûre, crue",
+    "scientific_name": "Vitex doniana",
+    "food_group": "Fruits and their products/Fruits et produits dérivés",
+    "geographical_area": null,
+    "components": [
+      {
+        "name": "Energy",
+        "value": "475",
+        "unit": "kJ"
+      },
+      {
+        "name": "Energy",
+        "value": "112",
+        "unit": "kcal"
+      },
+      {
+        "name": "Water",
+        "value": "70.1",
+        "unit": "g"
+      },
+      {
+        "name": "Protein, total",
+        "value": "0.4",
+        "unit": "g"
+      },
+      {
+        "name": "Fat, total or [fat, derived by analysis using continuous extraction]",
+        "value": "[0.2]",
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrate, available; calculated by difference",
+        "value": "26.4",
+        "unit": "g"
+      },
+      {
+        "name": "Fibre, total dietary or [fibre, crude]",
+        "value": "[1.4]",
+        "unit": "g"
+      },
+      {
+        "name": "Ash",
+        "value": "1.5",
+        "unit": "g"
+      },
+      {
+        "name": "Calcium",
+        "value": "25",
+        "unit": "mg"
+      },
+      {
+        "name": "Iron",
+        "value": "1.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Magnesium",
+        "value": "21",
+        "unit": "mg"
+      },
+      {
+        "name": "Phosphorus",
+        "value": "53",
+        "unit": "mg"
+      },
+      {
+        "name": "Potassium",
+        "value": "637",
+        "unit": "mg"
+      },
+      {
+        "name": "Sodium",
+        "value": "8",
+        "unit": "mg"
+      },
+      {
+        "name": "Zinc",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Copper",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol equivalents)",
+        "value": "tr",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin A (expressed in retinol activity equivalents)",
+        "value": "tr",
+        "unit": "mcg"
+      },
+      {
+        "name": "Retinol",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Beta-carotene equivalents or [beta-carotene]",
+        "value": "tr",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin D",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Thiamine (vitamin B1)",
+        "value": "0.14",
+        "unit": "mg"
+      },
+      {
+        "name": "Riboflavin (vitamin B2)",
+        "value": "0.02",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin equivalents or [niacin, preformed] (vitamin B3)",
+        "value": "0.5",
+        "unit": "mg"
+      },
+      {
+        "name": "Niacin, preformed",
+        "value": "0.4",
+        "unit": "mg"
+      },
+      {
+        "name": "Tryptophan",
+        "value": "5",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamin B12",
+        "value": "0",
+        "unit": "mcg"
+      },
+      {
+        "name": "Vitamin C",
+        "value": "10",
+        "unit": "mg"
+      },
+      {
+        "name": "Cholesterol",
+        "value": "0",
+        "unit": "mg"
+      }
+    ],
+    "ingredients": [
+      "African black plum/chocolate berry",
+      "ripe",
+      "raw"
+    ]
+  }
+]
